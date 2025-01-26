@@ -8,7 +8,13 @@ async function generateRegionsDB(regionsOperators: RegionOperator[]) {
     const regions: { [key: string]: { [key: string]: Region } } = {};
 
     for (const region of regionsOperators) {
+        if (!region["Country Code"]) {
+            console.warn(`Country Code is undefined for region: ${JSON.stringify(region)}`);
+            continue;
+        }
+
         const countryCode = region["Country Code"].toLowerCase();
+
         const location = region.Location;
 
         if (!location) {
