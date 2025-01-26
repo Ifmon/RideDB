@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_amersfoort",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/amersfoort/gbfs.json"
+  }
+]

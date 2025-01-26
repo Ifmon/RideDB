@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-wrocław",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/wrocław/gbfs.json"
+  },
+  {
+    "name": "nextbike_pl",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_pl/gbfs.json"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_almere",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/almere/gbfs.json"
+  }
+]

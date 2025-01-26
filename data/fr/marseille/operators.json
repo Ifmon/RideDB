@@ -1,0 +1,22 @@
+[
+  {
+    "name": "citiz_provence",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/6/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "dott-marseille",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/marseille/gbfs.json"
+  },
+  {
+    "name": "levelo_inurba_marseille",
+    "gbfs_url": "https://api.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
+  },
+  {
+    "name": "lime_marseille",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/marseille/gbfs.json"
+  },
+  {
+    "name": "voi_Marseille",
+    "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/66/gbfs.json"
+  }
+]

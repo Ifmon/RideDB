@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-indianapolis",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/indianapolis/gbfs.json"
+  },
+  {
+    "name": "bcycle_pacersbikeshare",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_pacersbikeshare/gbfs.json"
+  }
+]

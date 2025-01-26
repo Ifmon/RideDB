@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-jastrzebie-zdroj",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/jastrzebie-zdroj/gbfs.json"
+  },
+  {
+    "name": "nextbike_pj",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_pj/gbfs.json"
+  }
+]

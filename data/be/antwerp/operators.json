@@ -1,0 +1,26 @@
+[
+  {
+    "name": "bird-antwerp",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/antwerp/gbfs.json"
+  },
+  {
+    "name": "bluebike",
+    "gbfs_url": "https://api.delijn.be/gbfs/gbfs.json"
+  },
+  {
+    "name": "donkey_antwerp",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_antwerp/gbfs.json"
+  },
+  {
+    "name": "lime_antwerp",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/antwerp/gbfs.json"
+  },
+  {
+    "name": "cc_smartbike_antwerp",
+    "gbfs_url": "https://gbfs.smartbike.com/antwerp/1.0/gbfs.json"
+  },
+  {
+    "name": "voi_Antwerp",
+    "gbfs_url": "https://api.voiapp.io/gbfs/be/7a4cb689-a2ee-409d-a5fe-49d2e8d50717/v2/gbfs.json"
+  }
+]

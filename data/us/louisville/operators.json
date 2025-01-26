@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-louisville",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/louisville/gbfs.json"
+  },
+  {
+    "name": "lime_louisville",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/louisville/gbfs.json"
+  }
+]

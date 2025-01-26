@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-bielefeld",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/bielefeld/gbfs.json"
+  },
+  {
+    "name": "nextbike_dg",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dg/gbfs.json"
+  }
+]

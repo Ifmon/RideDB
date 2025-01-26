@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-arlingtonco",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/arlingtonco/gbfs.json"
+  },
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/arlington/gbfs.json"
+  },
+  {
+    "name": "lime_arlington",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/arlington/gbfs.json"
+  }
+]

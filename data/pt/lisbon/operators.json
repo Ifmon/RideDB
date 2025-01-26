@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bikr-lisbon",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/lisbon/gbfs.json"
+  },
+  {
+    "name": "Link_Lisbon",
+    "gbfs_url": "https://mds.linkyour.city/gbfs/pt_lisbon/gbfs.json"
+  }
+]

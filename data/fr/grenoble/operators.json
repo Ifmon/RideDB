@@ -1,0 +1,10 @@
+[
+  {
+    "name": "citiz_alpes_loire",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/5/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "dott-grenoble",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/grenoble/gbfs.json"
+  }
+]

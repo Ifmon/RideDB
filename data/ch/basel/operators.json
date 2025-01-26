@@ -1,0 +1,30 @@
+[
+  {
+    "name": "bird-basel",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/basel/gbfs.json"
+  },
+  {
+    "name": "bolt_basel",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/bolt_basel/gbfs"
+  },
+  {
+    "name": "dott-basel",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/basel/gbfs.json"
+  },
+  {
+    "name": "lime_basel",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/lime_basel/gbfs"
+  },
+  {
+    "name": "Link_Basel",
+    "gbfs_url": "https://mds.linkyour.city/gbfs/ch_basel/gbfs.json"
+  },
+  {
+    "name": "pickebike_basel",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_basel/gbfs"
+  },
+  {
+    "name": "tier_basel",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/tier_basel/gbfs"
+  }
+]

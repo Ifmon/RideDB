@@ -1,0 +1,10 @@
+[
+  {
+    "name": "lime_vancouver_bc",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/vancouver_bc/gbfs.json"
+  },
+  {
+    "name": "Mobibikes_CA_Vancouver",
+    "gbfs_url": "https://vancouver-gbfs.smoove.pro/gbfs/2/gbfs.json"
+  }
+]

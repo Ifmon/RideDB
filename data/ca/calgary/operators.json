@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-calgary",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/calgary/gbfs.json"
+  },
+  {
+    "name": "lime_calgary",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/calgary/gbfs.json"
+  },
+  {
+    "name": "neuron_yyc",
+    "gbfs_url": "https://mds.neuron-mobility.com/yyc/gbfs/2/"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_breda",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/breda/gbfs.json"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "chicago",
+    "gbfs_url": "https://gbfs.divvybikes.com/gbfs/2.3/gbfs.json"
+  },
+  {
+    "name": "lime_chicago",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/chicago/gbfs.json"
+  },
+  {
+    "name": "spin chicago",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/chicago/gbfs.json"
+  }
+]

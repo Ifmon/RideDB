@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Link_Wurzburg",
+    "gbfs_url": "https://mds.linkyour.city/gbfs/de_wurzburg/gbfs.json"
+  },
+  {
+    "name": "zeus_wurzburg",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/wurzburg/gbfs.json"
+  }
+]

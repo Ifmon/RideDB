@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nextbike_te",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_te/gbfs.json"
+  },
+  {
+    "name": "nextbike_tq",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_tq/gbfs.json"
+  },
+  {
+    "name": "nextbike_to",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_to/gbfs.json"
+  },
+  {
+    "name": "nextbike_tg",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_tg/gbfs.json"
+  }
+]

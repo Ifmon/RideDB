@@ -1,0 +1,10 @@
+[
+  {
+    "name": "hyrenorge",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/hyrenorge/gbfs"
+  },
+  {
+    "name": "otto",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/otto/gbfs"
+  }
+]

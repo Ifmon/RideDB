@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_rijswijk",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/rijswijk/gbfs.json"
+  }
+]

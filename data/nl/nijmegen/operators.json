@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BoltEU_Nijmegen",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/1445/gbfs"
+  },
+  {
+    "name": "check_nijmegen",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/nijmegen/gbfs.json"
+  }
+]

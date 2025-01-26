@@ -1,0 +1,38 @@
+[
+  {
+    "name": "zem_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/zem_ch/gbfs"
+  },
+  {
+    "name": "carvelo2go_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/carvelo2go_ch/gbfs"
+  },
+  {
+    "name": "edrivecarsharing_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/edrivecarsharing_ch/gbfs"
+  },
+  {
+    "name": "nextbike_ch",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ch/gbfs.json"
+  },
+  {
+    "name": "publibike",
+    "gbfs_url": "https://api.publibike.ch/v1/gbfs/v2/gbfs.json"
+  },
+  {
+    "name": "share_birrer_ch",
+    "gbfs_url": "https://www.share-birrer.ch/gbfs/gbfs.json"
+  },
+  {
+    "name": "sharedmobility.ch",
+    "gbfs_url": "https://www.sharedmobility.ch/gbfs.json"
+  },
+  {
+    "name": "velospot_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/velospot_ch/gbfs"
+  },
+  {
+    "name": "voi_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/voi_ch/gbfs"
+  }
+]

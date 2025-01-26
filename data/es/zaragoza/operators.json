@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird zaragoza",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/zaragoza/gbfs.json"
+  },
+  {
+    "name": "zaragoza",
+    "gbfs_url": "https://zaragoza.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

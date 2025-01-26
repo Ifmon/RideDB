@@ -1,0 +1,14 @@
+[
+  {
+    "name": 1227,
+    "gbfs_url": "https://roxy.rideatom.com/gbfs/v2_2/en/gbfs?id=1227"
+  },
+  {
+    "name": 71,
+    "gbfs_url": "https://yoio.rideatom.com/gbfs/v2_2/en/gbfs?id=71"
+  },
+  {
+    "name": "zeus_freiburg im breisgau",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/freiburg%20im%20breisgau/gbfs.json"
+  }
+]

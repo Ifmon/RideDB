@@ -1,0 +1,10 @@
+[
+  {
+    "name": "citiz_rennes_metropole",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/19/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "le_velo_star",
+    "gbfs_url": "https://eu.ftp.opendatasoft.com/star/gbfs/gbfs.json"
+  }
+]

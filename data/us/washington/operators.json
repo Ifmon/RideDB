@@ -1,0 +1,34 @@
+[
+  {
+    "name": "bird-washington-dc",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/washington-dc/gbfs.json"
+  },
+  {
+    "name": "BoltEU_Washington DC",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/23/gbfs"
+  },
+  {
+    "name": "cabi",
+    "gbfs_url": "https://gbfs.capitalbikeshare.com/gbfs/2.3/gbfs.json"
+  },
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/washington/gbfs.json"
+  },
+  {
+    "name": "lime_washington_dc",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/washington_dc/gbfs.json"
+  },
+  {
+    "name": "lyft_dca",
+    "gbfs_url": "https://gbfs.lyft.com/gbfs/2.3/dca/gbfs.json"
+  },
+  {
+    "name": "revel_washingtondc",
+    "gbfs_url": "https://gbfs.gorevel.com/gbfs/v2/washingtondc/en/gbfs.json"
+  },
+  {
+    "name": "spin washington_dc",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/washington_dc/gbfs.json"
+  }
+]

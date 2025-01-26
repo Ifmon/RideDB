@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_lansingerland",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/lansingerland/gbfs.json"
+  }
+]

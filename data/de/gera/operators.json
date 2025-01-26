@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-gera",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/gera/gbfs.json"
+  },
+  {
+    "name": "zeus_gera",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/gera/gbfs.json"
+  }
+]

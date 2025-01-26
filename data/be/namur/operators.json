@@ -1,0 +1,18 @@
+[
+  {
+    "name": "BoltEU_Namur",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/290/gbfs"
+  },
+  {
+    "name": "dott-namur",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/namur/gbfs.json"
+  },
+  {
+    "name": "namur",
+    "gbfs_url": "https://api.cyclocity.fr/contracts/namur/gbfs/gbfs.json"
+  },
+  {
+    "name": "pony_Namur",
+    "gbfs_url": "https://gbfs.getapony.com/v1/namur/en/gbfs.json"
+  }
+]

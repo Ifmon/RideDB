@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nextbike_bf",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bf/gbfs.json"
+  },
+  {
+    "name": "dott-bonn",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/bonn/gbfs.json"
+  },
+  {
+    "name": "nextbike_rb",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_rb/gbfs.json"
+  },
+  {
+    "name": "nextbike_dr",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dr/gbfs.json"
+  }
+]

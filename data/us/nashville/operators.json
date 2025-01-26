@@ -1,0 +1,14 @@
+[
+  {
+    "name": "provider-null-nashville",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/bird/nashville/gbfs.json"
+  },
+  {
+    "name": "bcycle_nashville",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_nashville/gbfs.json"
+  },
+  {
+    "name": "spin nashville",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/nashville/gbfs.json"
+  }
+]

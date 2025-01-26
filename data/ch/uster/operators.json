@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-uster",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/uster/gbfs.json"
+  },
+  {
+    "name": "lime_uster",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/lime_uster/gbfs"
+  }
+]

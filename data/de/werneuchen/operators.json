@@ -1,0 +1,10 @@
+[
+  {
+    "name": "barshare-bicycle",
+    "gbfs_url": "https://opendata.bbnavi.de/barshare/bicycle/gbfs.json"
+  },
+  {
+    "name": "barshare-other",
+    "gbfs_url": "https://opendata.bbnavi.de/barshare/other/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "citiz_angers",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/7/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "pony_Angers",
+    "gbfs_url": "https://gbfs.getapony.com/v1/angers/en/gbfs.json"
+  }
+]

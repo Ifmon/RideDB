@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Bixi_MTL",
+    "gbfs_url": "https://gbfs.velobixi.com/gbfs/gbfs.json"
+  },
+  {
+    "name": "locomotion_montreal",
+    "gbfs_url": "https://locomotion.app/api/gbfs/3.0/montreal/gbfs"
+  },
+  {
+    "name": "pbsn",
+    "gbfs_url": "https://pbsn.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

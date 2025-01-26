@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_delft",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/delft/gbfs.json"
+  }
+]

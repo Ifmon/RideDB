@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-ottawa",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/ottawa/gbfs.json"
+  },
+  {
+    "name": "lime_ottawa",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/ottawa/gbfs.json"
+  },
+  {
+    "name": "neuron_yow",
+    "gbfs_url": "https://mds.neuron-mobility.com/yow/gbfs/2/"
+  }
+]

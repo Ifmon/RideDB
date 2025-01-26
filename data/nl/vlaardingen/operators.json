@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_vlaardingen",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/vlaardingen/gbfs.json"
+  }
+]

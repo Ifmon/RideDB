@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-edmonton",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/edmonton/gbfs.json"
+  },
+  {
+    "name": "lime_edmonton",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/edmonton/gbfs.json"
+  }
+]

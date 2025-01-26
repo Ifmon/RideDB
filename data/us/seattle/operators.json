@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-seattle-washington",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/seattle-washington/gbfs.json"
+  },
+  {
+    "name": "lime_seattle",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/seattle/gbfs.json"
+  }
+]

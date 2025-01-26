@@ -1,0 +1,18 @@
+[
+  {
+    "name": "citiz_lpa",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/3/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "dott-lyon",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/lyon/gbfs.json"
+  },
+  {
+    "name": "84b174c4-eb74-5d07-bdeb-27f4215d2aa9",
+    "gbfs_url": "https://download.data.grandlyon.com/files/rdata/lag_leoandgo.disponibilite/gbfs.json"
+  },
+  {
+    "name": "lyon",
+    "gbfs_url": "https://api.cyclocity.fr/contracts/lyon/gbfs/gbfs.json"
+  }
+]

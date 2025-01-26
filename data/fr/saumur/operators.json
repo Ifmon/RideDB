@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ogalo",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/21/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "ogalo",
+    "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/ogalo/gbfs.json"
+  }
+]

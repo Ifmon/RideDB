@@ -1,0 +1,10 @@
+[
+  {
+    "name": "beryl_plymouth",
+    "gbfs_url": "https://gbfs.beryl.cc/v2_2/Plymouth/gbfs.json"
+  },
+  {
+    "name": "donkey_plymouth",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_plymouth/gbfs.json"
+  }
+]

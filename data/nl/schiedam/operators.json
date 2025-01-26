@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_schiedam",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/schiedam/gbfs.json"
+  }
+]

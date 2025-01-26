@@ -1,0 +1,10 @@
+[
+  {
+    "name": "provider-null-richmond",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/bird/richmond/gbfs.json"
+  },
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/richmond/gbfs.json"
+  }
+]

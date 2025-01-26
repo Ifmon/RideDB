@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-brunswick",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/brunswick/gbfs.json"
+  },
+  {
+    "name": "nextbike_dn",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dn/gbfs.json"
+  }
+]

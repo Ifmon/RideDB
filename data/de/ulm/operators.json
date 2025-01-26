@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-ulm",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/ulm/gbfs.json"
+  },
+  {
+    "name": "dott-ulm",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/ulm/gbfs.json"
+  },
+  {
+    "name": "swu2go",
+    "gbfs_url": "https://ixsi.swu.de/gbfs.json"
+  }
+]

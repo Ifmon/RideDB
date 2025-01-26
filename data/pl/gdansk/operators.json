@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-gdansk",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/gdansk/gbfs.json"
+  },
+  {
+    "name": "inurba-gdansk",
+    "gbfs_url": "https://gbfs.urbansharing.com/rowermevo.pl/gbfs.json"
+  }
+]

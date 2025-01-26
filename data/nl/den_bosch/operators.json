@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_denbosch",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/denbosch/gbfs.json"
+  }
+]

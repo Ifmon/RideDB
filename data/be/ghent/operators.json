@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BoltEU_Ghent",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/786/gbfs"
+  },
+  {
+    "name": "donkey_gh",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_gh/gbfs.json"
+  },
+  {
+    "name": "dott-ghent",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/ghent/gbfs.json"
+  }
+]

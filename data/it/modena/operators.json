@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-modena",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/modena/gbfs.json"
+  },
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/modena/gbfs.json"
+  }
+]

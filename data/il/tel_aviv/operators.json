@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-tel-aviv",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/tel-aviv/gbfs.json"
+  },
+  {
+    "name": "dott-tel-aviv",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/tel-aviv/gbfs.json"
+  },
+  {
+    "name": "lime_tel_aviv",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/tel_aviv/gbfs.json"
+  }
+]

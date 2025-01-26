@@ -1,0 +1,6 @@
+[
+  {
+    "name": "greenbike_aruba",
+    "gbfs_url": "https://aruba.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

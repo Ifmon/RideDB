@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-heidelberg",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/heidelberg/gbfs.json"
+  },
+  {
+    "name": "zeus_heidelberg",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/heidelberg/gbfs.json"
+  }
+]

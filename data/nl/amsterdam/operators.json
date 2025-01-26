@@ -1,0 +1,10 @@
+[
+  {
+    "name": "check_amsterdam",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/amsterdam/gbfs.json"
+  },
+  {
+    "name": "donkey_am",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_am/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-milan",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/milan/gbfs.json"
+  },
+  {
+    "name": "milan-bikemi",
+    "gbfs_url": "https://gbfs.urbansharing.com/bikemi.com/gbfs.json"
+  }
+]

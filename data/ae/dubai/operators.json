@@ -1,0 +1,14 @@
+[
+  {
+    "name": "careem_bike",
+    "gbfs_url": "https://dubai.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  },
+  {
+    "name": "dott-dubai",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/dubai/gbfs.json"
+  },
+  {
+    "name": "dott-dubai-hills",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/dubai-hills/gbfs.json"
+  }
+]

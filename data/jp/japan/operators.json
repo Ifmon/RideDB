@@ -1,0 +1,14 @@
+[
+  {
+    "name": "docomo-cycle",
+    "gbfs_url": "https://api-public.odpt.org/api/v4/gbfs/docomo-cycle/gbfs.json"
+  },
+  {
+    "name": "hellocycling",
+    "gbfs_url": "https://api-public.odpt.org/api/v4/gbfs/hellocycling/gbfs.json"
+  },
+  {
+    "name": "kotobike",
+    "gbfs_url": "https://app.kotobike.jp/api/exposed/v2/gbfs/gbfs.json"
+  }
+]

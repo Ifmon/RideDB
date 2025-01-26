@@ -1,0 +1,10 @@
+[
+  {
+    "name": "nextbike_pw",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_pw/gbfs.json"
+  },
+  {
+    "name": "nextbike_vw",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vw/gbfs.json"
+  }
+]

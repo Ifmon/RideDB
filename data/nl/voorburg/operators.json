@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_voorburg",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/voorburg/gbfs.json"
+  }
+]

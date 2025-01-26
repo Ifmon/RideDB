@@ -1,0 +1,18 @@
+[
+  {
+    "name": "bird-columbus",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/columbus/gbfs.json"
+  },
+  {
+    "name": "cogo",
+    "gbfs_url": "https://gbfs.cogobikeshare.com/gbfs/2.3/gbfs.json"
+  },
+  {
+    "name": "spin columbus",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/columbus/gbfs.json"
+  },
+  {
+    "name": "spin ohio_state",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/ohio_state/gbfs.json"
+  }
+]

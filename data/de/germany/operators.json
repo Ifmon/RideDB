@@ -1,0 +1,38 @@
+[
+  {
+    "name": "deer",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/deer/gbfs"
+  },
+  {
+    "name": "nextbike_fg",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_fg/gbfs.json"
+  },
+  {
+    "name": "nextbike_mr",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_mr/gbfs.json"
+  },
+  {
+    "name": "nextbike_um",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_um/gbfs.json"
+  },
+  {
+    "name": "nextbike_do",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_do/gbfs.json"
+  },
+  {
+    "name": "callabike",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/callabike/gbfs"
+  },
+  {
+    "name": "callabike_ice",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/callabike_ice/gbfs"
+  },
+  {
+    "name": "stadtwerk_tauberfranken",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/stadtwerk_tauberfranken/gbfs"
+  },
+  {
+    "name": "nextbike_vn",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vn/gbfs.json"
+  }
+]

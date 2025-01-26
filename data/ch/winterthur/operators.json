@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-winterthur",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/winterthur/gbfs.json"
+  },
+  {
+    "name": "dott-winterthur",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/winterthur/gbfs.json"
+  },
+  {
+    "name": "tier_winterthur",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/tier_winterthur/gbfs"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dott-paris",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/paris/gbfs.json"
+  },
+  {
+    "name": "lime_paris",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/paris/gbfs.json"
+  },
+  {
+    "name": "pony_paris",
+    "gbfs_url": "https://gbfs.getapony.com/v1/paris/en/gbfs.json"
+  },
+  {
+    "name": "tier_paris",
+    "gbfs_url": "https://data-sharing.tier-services.io/tier_paris/gbfs/3.0/"
+  },
+  {
+    "name": "Paris",
+    "gbfs_url": "https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/gbfs.json"
+  }
+]

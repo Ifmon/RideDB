@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-ludwigsburg",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/ludwigsburg/gbfs.json"
+  },
+  {
+    "name": "zeus_ludwigsburg",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/ludwigsburg/gbfs.json"
+  }
+]

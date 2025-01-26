@@ -1,0 +1,6 @@
+[
+  {
+    "name": "bike_santiago",
+    "gbfs_url": "https://santiago.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

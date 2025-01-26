@@ -1,0 +1,6 @@
+[
+  {
+    "name": "bogota_bike",
+    "gbfs_url": "https://bogota.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

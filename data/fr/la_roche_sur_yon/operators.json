@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-larochesuryon",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/larochesuryon/gbfs.json"
+  },
+  {
+    "name": "impulsyon",
+    "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/impulsyon/gbfs.json"
+  },
+  {
+    "name": "pony_La_Roche_Sur_Yon",
+    "gbfs_url": "https://gbfs.getapony.com/v1/la_roche_sur_yon/en/gbfs.json"
+  }
+]

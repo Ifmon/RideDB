@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_hilversum",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/hilversum/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/santabarbara/gbfs.json"
+  },
+  {
+    "name": "bcycle_santabarbara",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_santabarbara/gbfs.json"
+  }
+]

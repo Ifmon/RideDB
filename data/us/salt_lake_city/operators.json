@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bcycle_greenbikeslc",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_greenbikeslc/gbfs.json"
+  },
+  {
+    "name": "provider-null-salt_lake_city",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/salt_lake_city/gbfs.json"
+  }
+]

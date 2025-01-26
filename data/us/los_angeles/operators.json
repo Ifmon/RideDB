@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-los-angeles",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/los-angeles/gbfs.json"
+  },
+  {
+    "name": "bcycle_lametro",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_lametro/gbfs.json"
+  },
+  {
+    "name": "spin los_angeles",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/los_angeles/gbfs.json"
+  }
+]

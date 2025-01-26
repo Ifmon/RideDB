@@ -1,0 +1,10 @@
+[
+  {
+    "name": "citiz_bfc",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/2/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "besancon",
+    "gbfs_url": "https://api.cyclocity.fr/contracts/besancon/gbfs/gbfs.json"
+  }
+]

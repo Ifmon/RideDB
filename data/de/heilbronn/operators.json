@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-heilbronn",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/heilbronn/gbfs.json"
+  },
+  {
+    "name": "zeus_heilbronn",
+    "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/heilbronn/gbfs.json"
+  }
+]

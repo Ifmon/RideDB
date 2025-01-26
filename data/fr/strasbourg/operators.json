@@ -1,0 +1,14 @@
+[
+  {
+    "name": "citiz_grand_est",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/1/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "knot_strasbourg",
+    "gbfs_url": "https://api.knotcity.io/gbfs/v3/strasbourg/gbfs.json"
+  },
+  {
+    "name": "nextbike_ae",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ae/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "goabout",
+    "gbfs_url": "https://gbfs.goabout.com/2/gbfs.json"
+  },
+  {
+    "name": "ns_ov_fiets",
+    "gbfs_url": "http://gbfs.openov.nl/ovfiets/gbfs.json"
+  }
+]

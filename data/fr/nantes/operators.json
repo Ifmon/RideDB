@@ -1,0 +1,10 @@
+[
+  {
+    "name": "citiz_nantes",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/15/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "nantes",
+    "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/gbfs.json"
+  }
+]

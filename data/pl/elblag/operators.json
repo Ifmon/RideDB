@@ -1,0 +1,10 @@
+[
+  {
+    "name": "BoltEU_Elblag",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/563/gbfs"
+  },
+  {
+    "name": "dott-elblag",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/elblag/gbfs.json"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_zwolle",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/zwolle/gbfs.json"
+  }
+]

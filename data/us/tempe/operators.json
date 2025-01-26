@@ -1,0 +1,14 @@
+[
+  {
+    "name": 17,
+    "gbfs_url": "https://gbfs.hopr.city/api/gbfs/17/"
+  },
+  {
+    "name": "bird-tempe",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/tempe/gbfs.json"
+  },
+  {
+    "name": "provider-null-tempe",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/tempe/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bcycle_bublr",
+    "gbfs_url": "https://gbfs.bcycle.com/bcycle_bublr/gbfs.json"
+  },
+  {
+    "name": "provider-null-milwaukee",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/milwaukee/gbfs.json"
+  }
+]

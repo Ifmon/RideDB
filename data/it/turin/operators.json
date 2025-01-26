@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-turin",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/turin/gbfs.json"
+  },
+  {
+    "name": "Link_Turin",
+    "gbfs_url": "https://mds.linkyour.city/gbfs/it_turin/gbfs.json"
+  }
+]

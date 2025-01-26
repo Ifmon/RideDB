@@ -1,0 +1,10 @@
+[
+  {
+    "name": "check_denhaag",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/denhaag/gbfs.json"
+  },
+  {
+    "name": "donkey_den_haag",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_den_haag/gbfs.json"
+  }
+]

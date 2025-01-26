@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bike_nordelta",
+    "gbfs_url": "https://nordelta.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  },
+  {
+    "name": "bike_buenosaires",
+    "gbfs_url": "https://buenosaires.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

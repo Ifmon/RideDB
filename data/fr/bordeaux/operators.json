@@ -1,0 +1,22 @@
+[
+  {
+    "name": "bird-bordeaux",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/bordeaux/gbfs.json"
+  },
+  {
+    "name": "citiz_gironde",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/4/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "dott-bordeaux",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/bordeaux/gbfs.json"
+  },
+  {
+    "name": "velo-tbm-bordeaux",
+    "gbfs_url": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json"
+  },
+  {
+    "name": "pony_bordeaux",
+    "gbfs_url": "https://gbfs.getapony.com/v1/bordeaux/en/gbfs.json"
+  }
+]

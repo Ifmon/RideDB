@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bikeshare_kona",
+    "gbfs_url": "https://kona.publicbikesystem.net/ube/gbfs/v1/"
+  },
+  {
+    "name": "bike_share_hawaii",
+    "gbfs_url": "https://kona.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

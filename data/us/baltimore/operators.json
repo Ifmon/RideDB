@@ -1,0 +1,10 @@
+[
+  {
+    "name": "lime_baltimore",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/baltimore/gbfs.json"
+  },
+  {
+    "name": "spin baltimore",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/baltimore/gbfs.json"
+  }
+]

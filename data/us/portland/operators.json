@@ -1,0 +1,14 @@
+[
+  {
+    "name": "biketown_pdx",
+    "gbfs_url": "https://gbfs.biketownpdx.com/gbfs/2.3/gbfs.json"
+  },
+  {
+    "name": "bird-portland",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/portland/gbfs.json"
+  },
+  {
+    "name": "lime_portland",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/portland/gbfs.json"
+  }
+]

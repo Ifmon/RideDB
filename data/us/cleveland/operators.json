@@ -1,0 +1,10 @@
+[
+  {
+    "name": "bird-cleveland",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/cleveland/gbfs.json"
+  },
+  {
+    "name": "lime_cleveland",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/cleveland/gbfs.json"
+  }
+]

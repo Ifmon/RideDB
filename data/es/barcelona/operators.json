@@ -1,0 +1,10 @@
+[
+  {
+    "name": "nextbike_bs",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bs/gbfs.json"
+  },
+  {
+    "name": "bike_barcelona",
+    "gbfs_url": "https://barcelona-sp.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "check_rotterdam",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/rotterdam/gbfs.json"
+  },
+  {
+    "name": "donkey_rt",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_rt/gbfs.json"
+  }
+]

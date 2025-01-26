@@ -1,0 +1,6 @@
+[
+  {
+    "name": "bike_share_toronto",
+    "gbfs_url": "https://tor.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  }
+]

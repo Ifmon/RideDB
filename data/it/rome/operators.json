@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bird-rome",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/rome/gbfs.json"
+  },
+  {
+    "name": "dott-rome",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/rome/gbfs.json"
+  },
+  {
+    "name": "HELBIZ-US",
+    "gbfs_url": "https://gbfs.helbiz.com/v2.2/rome/gbfs.json"
+  }
+]

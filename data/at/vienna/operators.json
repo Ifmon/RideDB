@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Link_Vienna",
+    "gbfs_url": "https://mds.linkyour.city/gbfs/at_vienna/gbfs.json"
+  },
+  {
+    "name": "nextbike_wr",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_wr/gbfs.json"
+  }
+]

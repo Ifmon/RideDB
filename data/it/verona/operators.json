@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dott-verona",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/verona/gbfs.json"
+  },
+  {
+    "name": "verona-bike",
+    "gbfs_url": "https://gbfs.urbansharing.com/bikeverona.it/gbfs.json"
+  }
+]
