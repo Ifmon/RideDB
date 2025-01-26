@@ -1,0 +1,29 @@
+{
+  "name": "ridedb",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/simon-cad/RideDB#readme",
+  "bugs": {
+    "url": "https://github.com/simon-cad/RideDB/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-cad/RideDB.git"
+  },
+  "license": "ISC",
+  "author": "simon-cad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "papaparse": "^5.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "@types/node-fetch": "^2.6.12",
+    "@types/papaparse": "^5.3.15"
+  }
+}
