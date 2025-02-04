@@ -4,16 +4,16 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/washington-dc/gbfs.json"
   },
   {
-    "name": "BoltEU_Washington DC",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/23/gbfs"
-  },
-  {
     "name": "cabi",
     "gbfs_url": "https://gbfs.capitalbikeshare.com/gbfs/2.3/gbfs.json"
   },
   {
     "name": "HELBIZ-US",
     "gbfs_url": "https://gbfs.helbiz.com/v2.2/washington/gbfs.json"
+  },
+  {
+    "name": "BoltEU_Washington DC",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/23/gbfs"
   },
   {
     "name": "lime_washington_dc",
@@ -30,5 +30,9 @@
   {
     "name": "spin washington_dc",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/washington_dc/gbfs.json"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/DC_City/gbfs"
   }
 ]
