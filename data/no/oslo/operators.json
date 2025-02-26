@@ -12,10 +12,6 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydeoslo/gbfs"
   },
   {
-    "name": "SURF_SCOOTERS",
-    "gbfs_url": "https://api.app.surf/gbfs/en/gbfs.json"
-  },
-  {
     "name": "voioslo",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voioslo/gbfs"
   },

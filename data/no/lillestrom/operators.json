@@ -8,10 +8,6 @@
     "gbfs_url": "https://api.cyclocity.fr/contracts/lillestrom/gbfs/gbfs.json"
   },
   {
-    "name": "tierlillestrom",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/tierlillestrom/gbfs"
-  },
-  {
     "name": "voilillestrom",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voilillestrom/gbfs"
   }

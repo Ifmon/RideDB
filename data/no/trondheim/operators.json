@@ -4,10 +4,6 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydetrondheim/gbfs"
   },
   {
-    "name": "tiertrondheim",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/tiertrondheim/gbfs"
-  },
-  {
     "name": "trondheimbysykkel",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/trondheimbysykkel/gbfs"
   },
