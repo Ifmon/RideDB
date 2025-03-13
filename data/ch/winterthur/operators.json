@@ -8,6 +8,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/winterthur/gbfs.json"
   },
   {
+    "name": "lime_winterthur",
+    "gbfs_url": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_winterthur/gbfs"
+  },
+  {
     "name": "tier_winterthur",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/tier_winterthur/gbfs"
   }
