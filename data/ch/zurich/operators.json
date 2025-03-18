@@ -5,7 +5,7 @@
   },
   {
     "name": "bolt_zurich",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/bolt_zurich/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_zurich/gbfs"
   },
   {
     "name": "dott-zurich",
@@ -13,10 +13,6 @@
   },
   {
     "name": "lime_zurich",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/lime_zurich/gbfs"
-  },
-  {
-    "name": "tier_zurich",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/tier_zurich/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_zurich/gbfs"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
     "name": "pickebike_aubonne",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_aubonne/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_aubonne/gbfs"
   }
 ]

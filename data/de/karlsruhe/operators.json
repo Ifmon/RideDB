@@ -1,7 +1,7 @@
 [
   {
     "name": "bolt_karlsruhe",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/bolt_karlsruhe/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_karlsruhe/gbfs"
   },
   {
     "name": "dott-karlsruhe",
@@ -9,6 +9,6 @@
   },
   {
     "name": "stadtmobil_karlsruhe",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/stadtmobil_karlsruhe/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_karlsruhe/gbfs"
   }
 ]

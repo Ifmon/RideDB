@@ -5,7 +5,7 @@
   },
   {
     "name": "bolt_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/bolt_basel/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_basel/gbfs"
   },
   {
     "name": "dott-basel",
@@ -13,7 +13,7 @@
   },
   {
     "name": "lime_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/lime_basel/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_basel/gbfs"
   },
   {
     "name": "Link_Basel",
@@ -21,10 +21,6 @@
   },
   {
     "name": "pickebike_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_basel/gbfs"
-  },
-  {
-    "name": "tier_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/tier_basel/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_basel/gbfs"
   }
 ]

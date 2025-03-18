@@ -1,7 +1,11 @@
 [
   {
     "name": "deer",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/deer/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/deer/gbfs"
+  },
+  {
+    "name": "flinkster_carsharing",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/flinkster_carsharing/gbfs"
   },
   {
     "name": "nextbike_fg",
@@ -9,14 +13,18 @@
   },
   {
     "name": "callabike",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/callabike/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/callabike/gbfs"
   },
   {
     "name": "callabike_ice",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/callabike_ice/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/callabike_ice/gbfs"
   },
   {
     "name": "stadtwerk_tauberfranken",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/stadtwerk_tauberfranken/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtwerk_tauberfranken/gbfs"
+  },
+  {
+    "name": "voi_de",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_de/gbfs"
   }
 ]
