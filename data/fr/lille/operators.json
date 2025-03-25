@@ -4,7 +4,7 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/16/gbfs/v3.0/gbfs.json"
   },
   {
-    "name": "vlille",
-    "gbfs_url": "https://transport.data.gouv.fr/gbfs/vlille/gbfs.json"
+    "name": "v_lille",
+    "gbfs_url": "https://media.ilevia.fr/opendata/gbfs.json"
   }
 ]

@@ -2,5 +2,9 @@
   {
     "name": "bird-vichy",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/vichy/gbfs.json"
+  },
+  {
+    "name": "vivelo",
+    "gbfs_url": "https://gbfs.partners.fifteen.eu/gbfs/vichy/gbfs.json"
   }
 ]

@@ -1,6 +1,10 @@
 [
   {
     "name": "Optymo_FR_Belfort",
-    "gbfs_url": "https://belfort-gbfs.klervi.net/gbfs/gbfs.json"
+    "gbfs_url": "https://data.optymo.fr/vls/gbfs.json"
+  },
+  {
+    "name": "Optymo_Belfort_ALS",
+    "gbfs_url": "https://data.optymo.fr/als/gbfs.json"
   }
 ]
