@@ -9,7 +9,7 @@
   },
   {
     "name": "levelo_inurba_marseille",
-    "gbfs_url": "https://api.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
+    "gbfs_url": "https://gbfs.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
   },
   {
     "name": "lime_marseille",

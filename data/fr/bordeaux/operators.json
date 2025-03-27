@@ -13,7 +13,7 @@
   },
   {
     "name": "velo-tbm-bordeaux",
-    "gbfs_url": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json"
+    "gbfs_url": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt"
   },
   {
     "name": "pony_bordeaux",
