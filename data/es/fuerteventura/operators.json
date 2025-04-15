@@ -1,9 +1,5 @@
 [
   {
-    "name": "dott-fuerteventura",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/fuerteventura-/gbfs.json"
-  },
-  {
     "name": "Link_Fuerteventura",
     "gbfs_url": "https://mds.linkyour.city/gbfs/es_fuerteventura/gbfs.json"
   }

@@ -1,5 +1,9 @@
 [
   {
+    "name": "dott-jonkoping",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/jonkoping/gbfs.json"
+  },
+  {
     "name": 52,
     "gbfs_url": "https://qickscooters.rideatom.com/gbfs/v2_2/en/gbfs?id=52"
   }

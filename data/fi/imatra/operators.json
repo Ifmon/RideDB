@@ -2,5 +2,9 @@
   {
     "name": "donkey_imatra",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_imatra/gbfs.json"
+  },
+  {
+    "name": "dott-imatra",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/imatra/gbfs.json"
   }
 ]

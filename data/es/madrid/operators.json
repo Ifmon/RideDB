@@ -10,9 +10,5 @@
   {
     "name": "bird-madrid",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/madrid/gbfs.json"
-  },
-  {
-    "name": "dott-madrid",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/madrid/gbfs.json"
   }
 ]

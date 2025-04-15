@@ -1,5 +1,9 @@
 [
   {
+    "name": "dott-tenerife-sur",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/tenerife-sur/gbfs.json"
+  },
+  {
     "name": "Link_Tenerife_Sur",
     "gbfs_url": "https://mds.linkyour.city/gbfs/es_tenerife_sur/gbfs.json"
   }

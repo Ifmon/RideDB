@@ -2,5 +2,9 @@
   {
     "name": "nextbike_as",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_as/gbfs.json"
+  },
+  {
+    "name": "dott-nitra",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/nitra/gbfs.json"
   }
 ]

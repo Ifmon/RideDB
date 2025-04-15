@@ -2,5 +2,9 @@
   {
     "name": "donkey_hamina",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_hamina/gbfs.json"
+  },
+  {
+    "name": "dott-hamina",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/hamina/gbfs.json"
   }
 ]

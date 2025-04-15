@@ -2,5 +2,9 @@
   {
     "name": "donkey_haemeenlinna",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_haemeenlinna/gbfs.json"
+  },
+  {
+    "name": "dott-hameenlinna",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/hameenlinna/gbfs.json"
   }
 ]

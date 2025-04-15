@@ -2,5 +2,9 @@
   {
     "name": "donkey_hyvinkaa",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_hyvinkaa/gbfs"
+  },
+  {
+    "name": "dott-hyvinkaa",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/hyvinkaa/gbfs.json"
   }
 ]
