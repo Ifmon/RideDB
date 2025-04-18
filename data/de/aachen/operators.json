@@ -4,14 +4,6 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/aachen/gbfs.json"
   },
   {
-    "name": "openvelo_aachen_felyx",
-    "gbfs_url": "https://nitro.openvelo.org/aachen/felyx/v2/gbfs.json"
-  },
-  {
-    "name": "openvelo_aachen_tier",
-    "gbfs_url": "https://nitro.openvelo.org/aachen/tier/v2/gbfs.json"
-  },
-  {
     "name": "openvelo_aachen_velocity",
     "gbfs_url": "https://nitro.openvelo.org/aachen/velocity/v2/gbfs.json"
   }
