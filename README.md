@@ -7,13 +7,13 @@ RideDB is a project that aggregates and organizes GBFS (General Bikeshare Feed S
 To access the list of operators for a specific city, use the following URL structure:
 
 ```plaintext
-https://simon-cad.github.io/RideDB/data/country_code/city/operators.json
+https://ifmon.github.io/RideDB/data/country_code/city/operators.json
 ```
 
 Replace `country_code` and `city` with the appropriate normalized names. For example, to access operator data for Paris, France, you would use:
 
 ```plaintext
-https://simon-cad.github.io/RideDB/data/fr/paris/operators.json
+https://ifmon.github.io/RideDB/data/fr/paris/operators.json
 ```
 
 ## Normalization of City Names
