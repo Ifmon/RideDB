@@ -4,10 +4,6 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/reutlingen/gbfs.json"
   },
   {
-    "name": "lime_reutlingen",
-    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/reutlingen/gbfs.json"
-  },
-  {
     "name": "zeus_reutlingen",
     "gbfs_url": "https://zeus.city/api/v1/mds/gbfs/reutlingen/gbfs.json"
   }

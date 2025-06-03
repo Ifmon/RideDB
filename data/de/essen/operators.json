@@ -1,5 +1,9 @@
 [
   {
+    "name": "BoltEU_Essen",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/720/gbfs"
+  },
+  {
     "name": "dott-essen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/essen/gbfs.json"
   }

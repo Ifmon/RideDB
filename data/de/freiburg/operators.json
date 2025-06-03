@@ -1,9 +1,5 @@
 [
   {
-    "name": "donkey_freiburg",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_freiburg/gbfs.json"
-  },
-  {
     "name": "nextbike_df",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_df/gbfs.json"
   },
