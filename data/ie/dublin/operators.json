@@ -1,6 +1,14 @@
 [
   {
+    "name": "e6cb78c4-5ba5-4414-a2a2-bbf1ed91f76c",
+    "gbfs_url": "https://data.smartdublin.ie/bleeperbike-api/gbfs"
+  },
+  {
     "name": "dublin",
     "gbfs_url": "https://api.cyclocity.fr/contracts/dublin/gbfs/gbfs.json"
+  },
+  {
+    "name": "mobymoby_dublin",
+    "gbfs_url": "https://api.sharebike.com/public-api-service/gbfs/v2/moby_dublin/gbfs.json"
   }
 ]
