@@ -1,7 +1,7 @@
 [
   {
-    "name": "2em_cars",
-    "gbfs_url": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs"
+    "name": "zem_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/zem_ch/gbfs"
   },
   {
     "name": "carvelo2go_ch",
@@ -22,6 +22,10 @@
   {
     "name": "publibike",
     "gbfs_url": "https://api.publibike.ch/v1/gbfs/v2/gbfs.json"
+  },
+  {
+    "name": "quickrent.ch",
+    "gbfs_url": "https://quickrent.ch/sbb/api/v1/gbfs"
   },
   {
     "name": "share_birrer_ch",
