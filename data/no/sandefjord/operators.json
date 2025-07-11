@@ -2,5 +2,9 @@
   {
     "name": "dott-sandefjord",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/sandefjord/gbfs.json"
+  },
+  {
+    "name": "rydesandefjord",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydesandefjord/gbfs"
   }
 ]

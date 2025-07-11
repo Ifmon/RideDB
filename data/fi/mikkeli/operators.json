@@ -2,5 +2,9 @@
   {
     "name": "donkey_mikkeli",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_mikkeli/gbfs"
+  },
+  {
+    "name": "dott-mikkeli",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/mikkeli/gbfs.json"
   }
 ]

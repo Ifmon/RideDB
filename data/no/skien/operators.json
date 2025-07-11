@@ -1,0 +1,10 @@
+[
+  {
+    "name": "fartebysykkel",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/fartebysykkel/gbfs"
+  },
+  {
+    "name": "rydeskien",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydeskien/gbfs"
+  }
+]

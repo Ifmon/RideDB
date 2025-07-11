@@ -1,5 +1,9 @@
 [
   {
+    "name": "dott-rauma",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/rauma/gbfs.json"
+  },
+  {
     "name": 475,
     "gbfs_url": "https://joe.rideatom.com/gbfs/v2_2/en/gbfs?id=475"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "name": "rydeskienporsgrunn",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydeskienporsgrunn/gbfs"
+    "name": "rydeporsgrunn",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydeporsgrunn/gbfs"
   }
 ]
