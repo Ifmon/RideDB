@@ -6,5 +6,9 @@
   {
     "name": "dott-eindhoven",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/eindhoven/gbfs.json"
+  },
+  {
+    "name": "cooltra_eindhoven",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/eindhoven/3.0/en/gbfs.json"
   }
 ]

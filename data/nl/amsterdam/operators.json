@@ -6,5 +6,9 @@
   {
     "name": "donkey_am",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_am/gbfs.json"
+  },
+  {
+    "name": "cooltra_amsterdam",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/amsterdam/3.0/en/gbfs.json"
   }
 ]

@@ -12,6 +12,10 @@
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_antwerp/gbfs.json"
   },
   {
+    "name": "cooltra_antwerp",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/antwerp/3.0/en/gbfs.json"
+  },
+  {
     "name": "lime_antwerp",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/antwerp/gbfs.json"
   },

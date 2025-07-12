@@ -2,5 +2,9 @@
   {
     "name": "BoltEU_Enschede",
     "gbfs_url": "https://mds.bolt.eu/gbfs/3/1409/gbfs"
+  },
+  {
+    "name": "cooltra_enschede",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/enschede/3.0/en/gbfs.json"
   }
 ]

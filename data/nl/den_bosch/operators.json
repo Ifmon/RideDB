@@ -2,5 +2,9 @@
   {
     "name": "check_denbosch",
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/denbosch/gbfs.json"
+  },
+  {
+    "name": "cooltra_den_bosch",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/den_bosch/3.0/en/gbfs.json"
   }
 ]

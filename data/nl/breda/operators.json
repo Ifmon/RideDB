@@ -2,5 +2,9 @@
   {
     "name": "check_breda",
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/breda/gbfs.json"
+  },
+  {
+    "name": "cooltra_breda",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/breda/3.0/en/gbfs.json"
   }
 ]

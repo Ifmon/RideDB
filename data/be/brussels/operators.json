@@ -8,6 +8,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/brussels/gbfs.json"
   },
   {
+    "name": "cooltra_brussels",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/brussels/3.0/en/gbfs.json"
+  },
+  {
     "name": "lime_brussels",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/brussels/gbfs.json"
   },

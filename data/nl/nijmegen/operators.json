@@ -6,5 +6,9 @@
   {
     "name": "check_nijmegen",
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/nijmegen/gbfs.json"
+  },
+  {
+    "name": "cooltra_nijmegen",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/nijmegen/3.0/en/gbfs.json"
   }
 ]

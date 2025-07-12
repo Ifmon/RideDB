@@ -2,5 +2,9 @@
   {
     "name": "check_zwolle",
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/zwolle/gbfs.json"
+  },
+  {
+    "name": "cooltra_zwolle",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/zwolle/3.0/en/gbfs.json"
   }
 ]
