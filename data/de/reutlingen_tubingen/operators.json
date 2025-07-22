@@ -1,6 +1,6 @@
 [
   {
     "name": "bolt_reutlingen_tuebingen",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_reutlingen_tuebingen/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/bolt_reutlingen_tuebingen/gbfs"
   }
 ]

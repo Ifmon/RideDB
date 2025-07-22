@@ -1,6 +1,6 @@
 [
   {
     "name": "stadtmobil_rhein-neckar",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_rhein-neckar/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_rhein-neckar/gbfs"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
     "name": "oekostadt_renningen",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/oekostadt_renningen/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/oekostadt_renningen/gbfs"
   }
 ]

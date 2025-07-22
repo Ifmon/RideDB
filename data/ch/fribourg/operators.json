@@ -1,6 +1,6 @@
 [
   {
     "name": "pickebike_fribourg",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_fribourg/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_fribourg/gbfs"
   }
 ]

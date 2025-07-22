@@ -1,6 +1,6 @@
 [
   {
     "name": "zeo_bruchsal",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/zeo_bruchsal/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/zeo_bruchsal/gbfs"
   }
 ]

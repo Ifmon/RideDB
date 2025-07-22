@@ -5,6 +5,6 @@
   },
   {
     "name": "lastenvelo_fr",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lastenvelo_fr/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/lastenvelo_fr/gbfs"
   }
 ]

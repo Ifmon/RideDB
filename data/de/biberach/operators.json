@@ -1,6 +1,6 @@
 [
   {
     "name": "teilauto_biberach",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_biberach/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/teilauto_biberach/gbfs"
   }
 ]

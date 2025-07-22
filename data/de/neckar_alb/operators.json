@@ -1,6 +1,6 @@
 [
   {
     "name": "teilauto_neckar-alb",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_neckar-alb/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/teilauto_neckar-alb/gbfs"
   }
 ]

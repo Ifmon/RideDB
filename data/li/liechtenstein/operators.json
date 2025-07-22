@@ -5,6 +5,6 @@
   },
   {
     "name": "liemobil_liechtenstein",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/liemobil_liechtenstein/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/liemobil_liechtenstein/gbfs"
   }
 ]

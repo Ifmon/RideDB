@@ -5,6 +5,6 @@
   },
   {
     "name": "lime_uster",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_uster/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_uster/gbfs"
   }
 ]

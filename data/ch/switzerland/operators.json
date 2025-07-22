@@ -5,11 +5,11 @@
   },
   {
     "name": "carvelo2go_ch",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/carvelo2go_ch/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/carvelo2go_ch/gbfs"
   },
   {
     "name": "edrivecarsharing_ch",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/edrivecarsharing_ch/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/edrivecarsharing_ch/gbfs"
   },
   {
     "name": "mobility",
@@ -37,10 +37,10 @@
   },
   {
     "name": "velospot_ch",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/velospot_ch/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/velospot_ch/gbfs"
   },
   {
     "name": "voi_ch",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_ch/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/voi_ch/gbfs"
   }
 ]

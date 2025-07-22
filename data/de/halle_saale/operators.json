@@ -1,6 +1,6 @@
 [
   {
     "name": "oberschwabenmobil",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/oberschwabenmobil/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/oberschwabenmobil/gbfs"
   }
 ]
