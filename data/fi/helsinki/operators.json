@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-helsinki",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/helsinki/gbfs.json"
+  },
+  {
     "name": "BoltEU_Helsinki",
     "gbfs_url": "https://mds.bolt.eu/gbfs/3/10/gbfs"
   },

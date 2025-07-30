@@ -1,7 +1,7 @@
 [
   {
-    "name": "provider-null-nashville",
-    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/bird/nashville/gbfs.json"
+    "name": "bird-nashville",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/nashville/gbfs.json"
   },
   {
     "name": "bcycle_nashville",

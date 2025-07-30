@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-gainesville",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/gainesville/gbfs.json"
+  },
+  {
     "name": "spin gainesville",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/gainesville/gbfs.json"
   }

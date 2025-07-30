@@ -1,7 +1,7 @@
 [
   {
-    "name": "provider-null-orlando",
-    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/bird/orlando/gbfs.json"
+    "name": "bird-orlando",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/orlando/gbfs.json"
   },
   {
     "name": "HELBIZ-US",

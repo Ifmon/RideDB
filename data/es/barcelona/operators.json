@@ -6,5 +6,9 @@
   {
     "name": "bike_barcelona",
     "gbfs_url": "https://barcelona-sp.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+  },
+  {
+    "name": "bird-barcelona",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/barcelona/gbfs.json"
   }
 ]

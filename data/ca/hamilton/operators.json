@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-hamilton",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/hamilton/gbfs.json"
+  },
+  {
     "name": "sobi_hamilton",
     "gbfs_url": "https://hamilton.socialbicycles.com/opendata/gbfs.json"
   }

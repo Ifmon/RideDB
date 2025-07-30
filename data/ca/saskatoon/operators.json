@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-saskatoon",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/saskatoon/gbfs.json"
+  },
+  {
     "name": "neuron_yxe",
     "gbfs_url": "https://mds.neuron-mobility.com/yxe/gbfs/2/"
   }

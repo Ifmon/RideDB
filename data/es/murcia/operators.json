@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-murcia",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/murcia/gbfs.json"
+  },
+  {
     "name": "dott-murcia",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/murcia/gbfs.json"
   }
