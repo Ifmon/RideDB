@@ -10,5 +10,9 @@
   {
     "name": "bird-barcelona",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/barcelona/gbfs.json"
+  },
+  {
+    "name": "donkey_barcelona",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_barcelona/gbfs.json"
   }
 ]
