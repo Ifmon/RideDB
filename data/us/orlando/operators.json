@@ -4,10 +4,6 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/orlando/gbfs.json"
   },
   {
-    "name": "HELBIZ-US",
-    "gbfs_url": "https://gbfs.helbiz.com/v2.2/orlando/gbfs.json"
-  },
-  {
     "name": "provider-null-university_of_central_florida",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/university_of_central_florida/gbfs.json"
   }

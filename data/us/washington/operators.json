@@ -8,10 +8,6 @@
     "gbfs_url": "https://gbfs.capitalbikeshare.com/gbfs/2.3/gbfs.json"
   },
   {
-    "name": "HELBIZ-US",
-    "gbfs_url": "https://gbfs.helbiz.com/v2.2/washington/gbfs.json"
-  },
-  {
     "name": "BoltEU_Washington DC",
     "gbfs_url": "https://mds.bolt.eu/gbfs/3/23/gbfs"
   },
