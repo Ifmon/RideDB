@@ -1,6 +1,6 @@
 [
   {
-    "name": "bcycle_fortworth",
-    "gbfs_url": "https://gbfs.bcycle.com/bcycle_fortworth/gbfs.json"
+    "name": "fortworth",
+    "gbfs_url": "https://fortworth.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
   }
 ]
