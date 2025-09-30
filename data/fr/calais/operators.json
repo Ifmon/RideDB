@@ -1,10 +1,10 @@
 [
   {
-    "name": "calais-velos",
-    "gbfs_url": "https://stce.transdev-hdf.fr/gbfs/"
-  },
-  {
     "name": "calais",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/calais/gbfs.json"
+  },
+  {
+    "name": "calais-velos",
+    "gbfs_url": "https://stce.transdev-hdf.fr/gbfs/"
   }
 ]

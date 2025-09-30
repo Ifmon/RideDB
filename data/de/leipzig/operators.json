@@ -4,10 +4,6 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/leipzig/gbfs.json"
   },
   {
-    "name": "nextbike_sk",
-    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_sk/gbfs.json"
-  },
-  {
     "name": "nextbike_le",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_le/gbfs.json"
   }
