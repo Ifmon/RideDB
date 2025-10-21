@@ -2,5 +2,9 @@
   {
     "name": "provider-null-santa_monica",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/santa_monica/gbfs.json"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/xla/gbfs"
   }
 ]

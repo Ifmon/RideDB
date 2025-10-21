@@ -10,5 +10,13 @@
   {
     "name": "lime_new_york",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/new_york/gbfs.json"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/nyc/gbfs"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/nyq/gbfs"
   }
 ]

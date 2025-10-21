@@ -2,5 +2,9 @@
   {
     "name": "spin fayetteville",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/fayetteville/gbfs.json"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/fay/gbfs"
   }
 ]

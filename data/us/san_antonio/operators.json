@@ -2,5 +2,9 @@
   {
     "name": "bcycle_sanantonio",
     "gbfs_url": "https://gbfs.bcycle.com/bcycle_sanantonio/gbfs.json"
+  },
+  {
+    "name": "Veo Mobility",
+    "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/stx/gbfs"
   }
 ]
