@@ -2,9 +2,5 @@
   {
     "name": "BoltEU_Nicosia",
     "gbfs_url": "https://mds.bolt.eu/gbfs/3/261/gbfs"
-  },
-  {
-    "name": "velespeed",
-    "gbfs_url": "https://nicosia.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
   }
 ]

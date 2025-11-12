@@ -4,16 +4,24 @@
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/callabike/gbfs"
   },
   {
-    "name": "callabike_ice",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/callabike_ice/gbfs"
-  },
-  {
     "name": "deer",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/deer/gbfs"
   },
   {
+    "name": "einfach_unterwegs",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/einfach_unterwegs/gbfs"
+  },
+  {
     "name": "flinkster_carsharing",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/flinkster_carsharing/gbfs"
+  },
+  {
+    "name": "ford_carsharing_autohausbaur",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/ford_carsharing_autohausbaur/gbfs"
+  },
+  {
+    "name": "mikar",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/mikar/gbfs"
   },
   {
     "name": "stadtwerk_tauberfranken",

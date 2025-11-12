@@ -2,9 +2,5 @@
   {
     "name": "dott-palermo",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/palermo/gbfs.json"
-  },
-  {
-    "name": "Link_Palermo",
-    "gbfs_url": "https://mds.linkyour.city/gbfs/it_palermo/gbfs.json"
   }
 ]

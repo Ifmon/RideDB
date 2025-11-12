@@ -9,11 +9,7 @@
   },
   {
     "name": "pony_paris",
-    "gbfs_url": "https://gbfs.getapony.com/v1/paris/en/gbfs.json"
-  },
-  {
-    "name": "tier_paris",
-    "gbfs_url": "https://data-sharing.tier-services.io/tier_paris/gbfs/3.0/"
+    "gbfs_url": "https://gbfs.getapony.com/v1/paris/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
   },
   {
     "name": "Paris",

@@ -4,6 +4,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/denver/gbfs.json"
   },
   {
+    "name": "lime_denver",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/denver/gbfs.json"
+  },
+  {
     "name": "lyft_den",
     "gbfs_url": "https://gbfs.lyft.com/gbfs/2.3/den/gbfs.json"
   }

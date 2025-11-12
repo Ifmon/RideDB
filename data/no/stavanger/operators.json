@@ -8,6 +8,10 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/kolumbusbysykkel/gbfs"
   },
   {
+    "name": "rydestavanger",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydestavanger/gbfs"
+  },
+  {
     "name": "voistavanger",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voistavanger/gbfs"
   }

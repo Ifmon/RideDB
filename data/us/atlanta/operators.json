@@ -4,6 +4,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/atlanta/gbfs.json"
   },
   {
+    "name": "lime_atlanta",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/atlanta/gbfs.json"
+  },
+  {
     "name": "relay_bike_share",
     "gbfs_url": "https://relaybikeshare.socialbicycles.com/opendata/gbfs.json"
   }

@@ -2,9 +2,5 @@
   {
     "name": "lime_oakland",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/oakland/gbfs.json"
-  },
-  {
-    "name": "revel_oakland",
-    "gbfs_url": "https://gbfs.gorevel.com/gbfs/v2/oakland/en/gbfs.json"
   }
 ]

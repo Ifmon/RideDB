@@ -4,10 +4,6 @@
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/gruene-flotte_freiburg/gbfs"
   },
   {
-    "name": 1227,
-    "gbfs_url": "https://roxy.rideatom.com/gbfs/v2_2/en/gbfs?id=1227"
-  },
-  {
     "name": 71,
     "gbfs_url": "https://yoio.rideatom.com/gbfs/v2_2/en/gbfs?id=71"
   },

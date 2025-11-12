@@ -1,15 +1,7 @@
 [
   {
-    "name": "barshare-car",
-    "gbfs_url": "https://opendata.bbnavi.de/barshare/car/gbfs.json"
-  },
-  {
     "name": "dott-berlin",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/berlin/gbfs.json"
-  },
-  {
-    "name": "flotte-brandenburg",
-    "gbfs_url": "https://opendata.bbnavi.de/flotte/flotte-brandenburg/gbfs.json"
   },
   {
     "name": "nextbike_bn",

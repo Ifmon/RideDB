@@ -1,9 +1,5 @@
 [
   {
-    "name": "nextbike_jp",
-    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_jp/gbfs.json"
-  },
-  {
     "name": "dott-czestochowa",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/czestochowa/gbfs.json"
   }

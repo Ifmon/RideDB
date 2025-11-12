@@ -8,10 +8,6 @@
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/san_francisco/gbfs.json"
   },
   {
-    "name": "revel_sanfrancisco",
-    "gbfs_url": "https://gbfs.gorevel.com/gbfs/v2/sanfrancisco/en/gbfs.json"
-  },
-  {
     "name": "provider-null-san_francisco",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/san_francisco/gbfs.json"
   }

@@ -4,10 +4,6 @@
     "gbfs_url": "https://gbfs.urbansharing.com/bergenbysykkel.no/gbfs.json"
   },
   {
-    "name": "boltbergen",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltbergen/gbfs"
-  },
-  {
     "name": "voibergen",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voibergen/gbfs"
   }

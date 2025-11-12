@@ -1,5 +1,9 @@
 [
   {
+    "name": "coono",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/coono/gbfs"
+  },
+  {
     "name": "dott-tubingen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/tubingen/gbfs.json"
   },

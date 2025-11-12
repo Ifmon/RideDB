@@ -1,9 +1,5 @@
 [
   {
-    "name": "boltlillestrom",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltlillestrom/gbfs"
-  },
-  {
     "name": "lillestrom",
     "gbfs_url": "https://api.cyclocity.fr/contracts/lillestrom/gbfs/gbfs.json"
   },

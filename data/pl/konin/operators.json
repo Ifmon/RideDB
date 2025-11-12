@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Konin",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/1394/gbfs"
-  },
-  {
     "name": "dott-konin",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/konin/gbfs.json"
   },

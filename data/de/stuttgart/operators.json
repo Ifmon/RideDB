@@ -8,11 +8,19 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/stuttgart/gbfs.json"
   },
   {
+    "name": "lime_stuttgart",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_stuttgart/gbfs"
+  },
+  {
     "name": "regiorad_stuttgart",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/regiorad_stuttgart/gbfs"
   },
   {
     "name": "stadtmobil_stuttgart",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_stuttgart/gbfs"
+  },
+  {
+    "name": "stella",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stella/gbfs"
   }
 ]

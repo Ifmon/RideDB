@@ -16,10 +16,6 @@
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_basel/gbfs"
   },
   {
-    "name": "Link_Basel",
-    "gbfs_url": "https://mds.linkyour.city/gbfs/ch_basel/gbfs.json"
-  },
-  {
     "name": "pickebike_basel",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_basel/gbfs"
   }

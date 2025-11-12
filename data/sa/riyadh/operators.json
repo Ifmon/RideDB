@@ -2,5 +2,13 @@
   {
     "name": "dott-riyadh",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/riyadh/gbfs.json"
+  },
+  {
+    "name": "dott-sbf",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/sbf/gbfs.json"
+  },
+  {
+    "name": "dott-stc-city",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/stc-city/gbfs.json"
   }
 ]

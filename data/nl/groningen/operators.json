@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Groningen",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/1425/gbfs"
-  },
-  {
     "name": "check_groningen",
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/groningen/gbfs.json"
   },

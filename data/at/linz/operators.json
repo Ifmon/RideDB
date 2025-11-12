@@ -6,9 +6,5 @@
   {
     "name": "dott-linz",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/linz/gbfs.json"
-  },
-  {
-    "name": "Link_Linz",
-    "gbfs_url": "https://mds.linkyour.city/gbfs/at_linz/gbfs.json"
   }
 ]

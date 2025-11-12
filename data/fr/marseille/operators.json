@@ -1,5 +1,9 @@
 [
   {
+    "name": "bird-marseille",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/marseille/gbfs.json"
+  },
+  {
     "name": "citiz_provence",
     "gbfs_url": "https://backend.citiz.fr/public/provider/6/gbfs/v3.0/gbfs.json"
   },

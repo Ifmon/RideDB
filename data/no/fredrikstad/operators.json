@@ -1,9 +1,5 @@
 [
   {
-    "name": "boltfredrikstad",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltfredrikstad/gbfs"
-  },
-  {
     "name": "rydefredrikstad",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydefredrikstad/gbfs"
   }

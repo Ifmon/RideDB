@@ -17,7 +17,7 @@
   },
   {
     "name": "pony_brussels",
-    "gbfs_url": "https://gbfs.getapony.com/v1/brussels/en/gbfs.json"
+    "gbfs_url": "https://gbfs.getapony.com/v1/brussels/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
   },
   {
     "name": "bruxelles",

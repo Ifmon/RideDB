@@ -1,10 +1,6 @@
 [
   {
-    "name": "Link_Perpignan",
-    "gbfs_url": "https://mds.linkyour.city/gbfs/fr_perpignan/gbfs.json"
-  },
-  {
     "name": "pony_Perpignan",
-    "gbfs_url": "https://gbfs.getapony.com/v1/perpignan/en/gbfs.json"
+    "gbfs_url": "https://gbfs.getapony.com/v1/perpignan/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "herrenberg_alf",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_alf/gbfs"
+  },
+  {
+    "name": "herrenberg_fare",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_fare/gbfs"
+  },
+  {
+    "name": "herrenberg_guelf",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_guelf/gbfs"
+  }
+]

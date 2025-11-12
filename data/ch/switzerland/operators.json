@@ -13,7 +13,11 @@
   },
   {
     "name": "mobility",
-    "gbfs_url": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/mobility/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/mobility_ch/gbfs"
+  },
+  {
+    "name": "mybuxi_ch",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/mybuxi_ch/gbfs"
   },
   {
     "name": "nextbike_ch",
