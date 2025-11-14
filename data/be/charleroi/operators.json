@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Charleroi",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/787/gbfs"
-  },
-  {
     "name": "dott-charleroi",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/charleroi/gbfs.json"
   },

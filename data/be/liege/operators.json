@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Liege",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/2047/gbfs"
-  },
-  {
     "name": "dott-liege",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/liege/gbfs.json"
   },

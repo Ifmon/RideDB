@@ -4,10 +4,6 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/zurich/gbfs.json"
   },
   {
-    "name": "bolt_zurich",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/bolt_zurich/gbfs"
-  },
-  {
     "name": "dott-zurich",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/zurich/gbfs.json"
   },

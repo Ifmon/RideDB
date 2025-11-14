@@ -2,9 +2,5 @@
   {
     "name": "dott-eskilstuna",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/eskilstuna/gbfs.json"
-  },
-  {
-    "name": 462,
-    "gbfs_url": "https://qickscooters.rideatom.com/gbfs/v2_2/en/gbfs?id=462"
   }
 ]

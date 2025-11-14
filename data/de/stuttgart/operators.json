@@ -1,9 +1,5 @@
 [
   {
-    "name": "bolt_stuttgart",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/bolt_stuttgart/gbfs"
-  },
-  {
     "name": "dott-stuttgart",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/stuttgart/gbfs.json"
   },

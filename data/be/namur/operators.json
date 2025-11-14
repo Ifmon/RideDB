@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Namur",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/290/gbfs"
-  },
-  {
     "name": "namur",
     "gbfs_url": "https://api.cyclocity.fr/contracts/namur/gbfs/gbfs.json"
   }

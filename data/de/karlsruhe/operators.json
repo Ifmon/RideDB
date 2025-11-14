@@ -1,9 +1,5 @@
 [
   {
-    "name": "bolt_karlsruhe",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/bolt_karlsruhe/gbfs"
-  },
-  {
     "name": "dott-karlsruhe",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/karlsruhe/gbfs.json"
   },

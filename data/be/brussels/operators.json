@@ -1,9 +1,5 @@
 [
   {
-    "name": "BoltEU_Brussels",
-    "gbfs_url": "https://mds.bolt.eu/gbfs/3/336/gbfs"
-  },
-  {
     "name": "dott-brussels",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/brussels/gbfs.json"
   },
