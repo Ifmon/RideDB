@@ -1,5 +1,9 @@
 [
   {
+    "name": "boltdrammen",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltdrammen/gbfs"
+  },
+  {
     "name": "dott-drammen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/drammen/gbfs.json"
   }

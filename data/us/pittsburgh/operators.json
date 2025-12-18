@@ -1,6 +1,6 @@
 [
   {
     "name": "pittsburgh",
-    "gbfs_url": "https://pittsburgh.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://pittsburgh.publicbikesystem.net/customer/gbfs/v3.0/"
   }
 ]

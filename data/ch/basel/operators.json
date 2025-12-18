@@ -4,6 +4,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/basel/gbfs.json"
   },
   {
+    "name": "bolt_basel",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_basel/gbfs"
+  },
+  {
     "name": "dott-basel",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/basel/gbfs.json"
   },

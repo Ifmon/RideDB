@@ -4,16 +4,12 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/detroit/gbfs.json"
   },
   {
-    "name": "576347857979998215",
-    "gbfs_url": "https://gbsf.movatic.co/en/1.1/576347857979998215"
-  },
-  {
     "name": "lime_detroit",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/detroit/gbfs.json"
   },
   {
     "name": "mogo",
-    "gbfs_url": "https://detroit-us.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://detroit.publicbikesystem.net/customer/gbfs/v3.0/"
   },
   {
     "name": "spin detroit",

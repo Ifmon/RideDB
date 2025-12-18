@@ -1,6 +1,6 @@
 [
   {
     "name": "sbu",
-    "gbfs_url": "https://stonybrook.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://stonybrook.publicbikesystem.net/customer/gbfs/v3.0/"
   }
 ]

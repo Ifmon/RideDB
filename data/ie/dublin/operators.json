@@ -5,7 +5,7 @@
   },
   {
     "name": "dublin",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/dublin/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/dublin/gbfs/v3/gbfs.json"
   },
   {
     "name": "mobymoby_dublin",

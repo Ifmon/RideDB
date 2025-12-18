@@ -10,5 +10,9 @@
   {
     "name": "dott-dubai-hills",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/dubai-hills/gbfs.json"
+  },
+  {
+    "name": 511,
+    "gbfs_url": "https://yaldi.rideatom.com/gbfs/511/v3.0/gbfs"
   }
 ]

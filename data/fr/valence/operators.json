@@ -1,6 +1,6 @@
 [
   {
     "name": "libelo",
-    "gbfs_url": "https://valence.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://valence.publicbikesystem.net/customer/gbfs/v3.0/"
   }
 ]

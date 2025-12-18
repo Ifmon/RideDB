@@ -2,5 +2,9 @@
   {
     "name": "dott-erfurt",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/erfurt/gbfs.json"
+  },
+  {
+    "name": 159,
+    "gbfs_url": "https://yoio.rideatom.com/gbfs/159/v3.0/gbfs"
   }
 ]

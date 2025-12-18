@@ -1,6 +1,6 @@
 [
   {
     "name": "spin raleigh",
-    "gbfs_url": "https://gbfs.spin.pm/api/gbfs/v2_3/raleigh/gbfs"
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/raleigh/gbfs.json"
   }
 ]

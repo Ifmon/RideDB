@@ -1,5 +1,9 @@
 [
   {
+    "name": "boltoslo",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltoslo/gbfs"
+  },
+  {
     "name": "oslobysykkel",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/oslobysykkel/gbfs"
   },

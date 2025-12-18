@@ -1,5 +1,9 @@
 [
   {
+    "name": "citedia_services",
+    "gbfs_url": "https://backend.citiz.fr/public/provider/22/gbfs/3.0/gbfs.json"
+  },
+  {
     "name": "citiz_rennes_metropole",
     "gbfs_url": "https://backend.citiz.fr/public/provider/19/gbfs/v3.0/gbfs.json"
   },

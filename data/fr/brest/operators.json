@@ -1,5 +1,9 @@
 [
   {
+    "name": "donkey_brest",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_brest/gbfs.json"
+  },
+  {
     "name": "velozef",
     "gbfs_url": "https://gbfs.partners.fifteen.eu/gbfs/2.2/brest/en/gbfs.json"
   }

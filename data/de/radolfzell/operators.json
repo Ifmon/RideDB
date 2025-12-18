@@ -2,9 +2,5 @@
   {
     "name": "seefahrer_ecarsharing",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/seefahrer_ecarsharing/gbfs"
-  },
-  {
-    "name": "seefahrer_ecarsharing",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/seefahrer_ecarsharing/gbfs"
   }
 ]

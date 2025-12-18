@@ -1,6 +1,6 @@
 [
   {
     "name": "mona_bike",
-    "gbfs_url": "https://monaco.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://monaco.publicbikesystem.net/customer/gbfs/v3.0/"
   }
 ]

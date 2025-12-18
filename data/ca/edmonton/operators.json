@@ -6,5 +6,9 @@
   {
     "name": "lime_edmonton",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/edmonton/gbfs.json"
+  },
+  {
+    "name": "neuron_yeg",
+    "gbfs_url": "https://mds.neuron-mobility.com/yeg/gbfs/2/"
   }
 ]

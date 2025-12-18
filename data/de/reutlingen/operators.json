@@ -1,5 +1,9 @@
 [
   {
+    "name": "bolt_reutlingen_tuebingen",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_reutlingen_tuebingen/gbfs"
+  },
+  {
     "name": "dott-reutlingen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/reutlingen/gbfs.json"
   },
