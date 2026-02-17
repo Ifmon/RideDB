@@ -2,5 +2,9 @@
   {
     "name": "dott-aachen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/aachen/gbfs.json"
+  },
+  {
+    "name": "esel_ac",
+    "gbfs_url": "https://di.esel.ac/gbfs/gbfs.json"
   }
 ]
