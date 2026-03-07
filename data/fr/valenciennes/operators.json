@@ -1,6 +1,6 @@
 [
   {
-    "name": "donkey_valenciennes",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_valenciennes/gbfs.json"
+    "name": "valenciennes",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/valenciennes/gbfs.json"
   }
 ]

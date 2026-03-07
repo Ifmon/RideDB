@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaroundarendal",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundarendal/gbfs"
+  },
+  {
     "name": "voiarendal",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voiarendal/gbfs"
   }

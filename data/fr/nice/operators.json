@@ -1,5 +1,9 @@
 [
   {
+    "name": "lime_nice",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/nice/gbfs.json"
+  },
+  {
     "name": "pony_Nice",
     "gbfs_url": "https://gbfs.getapony.com/v1/nice/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
   }

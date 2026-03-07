@@ -2,5 +2,9 @@
   {
     "name": "amicarnapoli",
     "gbfs_url": "https://www.amicarnapoli.it/gbfs/gbfs.json"
+  },
+  {
+    "name": "lime_naples",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/naples/gbfs.json"
   }
 ]

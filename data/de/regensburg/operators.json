@@ -1,5 +1,9 @@
 [
   {
+    "name": "donkey_regensburg_straubing",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_regensburg_straubing/gbfs.json"
+  },
+  {
     "name": "donkey_regensburg",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_regensburg/gbfs.json"
   },

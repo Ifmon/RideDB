@@ -4,6 +4,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/trondheim/gbfs.json"
   },
   {
+    "name": "getaroundtrondheim",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundtrondheim/gbfs"
+  },
+  {
     "name": "rydetrondheim",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydetrondheim/gbfs"
   },

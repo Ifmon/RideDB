@@ -8,6 +8,10 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltbergen/gbfs"
   },
   {
+    "name": "getaroundbergen",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundbergen/gbfs"
+  },
+  {
     "name": "voibergen",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voibergen/gbfs"
   }

@@ -1,7 +1,7 @@
 [
   {
     "name": "beryl_plymouth",
-    "gbfs_url": "https://gbfs.beryl.cc/v2_2/Plymouth/gbfs.json"
+    "gbfs_url": "https://beryl-gbfs-production.web.app/v2_2/Plymouth/gbfs.json"
   },
   {
     "name": "donkey_plymouth",

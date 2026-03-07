@@ -1,0 +1,6 @@
+[
+  {
+    "name": "getaroundbodo",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundbodo/gbfs"
+  }
+]

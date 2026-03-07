@@ -1,6 +1,6 @@
 [
   {
     "name": "beryl_bcp",
-    "gbfs_url": "https://gbfs.beryl.cc/v2_2/BCP/gbfs.json"
+    "gbfs_url": "https://beryl-gbfs-production.web.app/v2_2/BCP/gbfs.json"
   }
 ]

@@ -1,5 +1,9 @@
 [
   {
+    "name": "turin",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/turin/3.0/en/gbfs.json"
+  },
+  {
     "name": "dott-turin",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/turin/gbfs.json"
   }
