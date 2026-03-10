@@ -12,11 +12,11 @@
     "gbfs_url": "https://gbfs.getapony.com/v1/paris/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
   },
   {
-    "name": "voi_Paris",
-    "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/352/gbfs.json"
-  },
-  {
     "name": "Paris",
     "gbfs_url": "https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/gbfs.json"
+  },
+  {
+    "name": "voi_Paris",
+    "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/352/gbfs.json"
   }
 ]
