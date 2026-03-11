@@ -4,6 +4,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/ulm/gbfs.json"
   },
   {
+    "name": "conficars_ulm",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/conficars_ulm/gbfs"
+  },
+  {
     "name": "dott-ulm",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/ulm/gbfs.json"
   },

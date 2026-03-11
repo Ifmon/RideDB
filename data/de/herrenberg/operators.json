@@ -10,5 +10,9 @@
   {
     "name": "herrenberg_guelf",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_guelf/gbfs"
+  },
+  {
+    "name": "herrenberg_stadtrad",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/herrenberg_stadtrad/gbfs"
   }
 ]

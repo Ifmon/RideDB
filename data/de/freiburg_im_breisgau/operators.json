@@ -4,6 +4,10 @@
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/gruene-flotte_freiburg/gbfs"
   },
   {
+    "name": "freibe",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/freibe/gbfs"
+  },
+  {
     "name": 71,
     "gbfs_url": "https://yoio.rideatom.com/gbfs/71/v3.0/gbfs"
   },
