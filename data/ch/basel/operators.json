@@ -13,10 +13,10 @@
   },
   {
     "name": "lime_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/lime_basel/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_basel/gbfs"
   },
   {
     "name": "pickebike_basel",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/pickebike_basel/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_basel/gbfs"
   }
 ]

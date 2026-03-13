@@ -13,11 +13,11 @@
   },
   {
     "name": "regiorad_stuttgart",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/regiorad_stuttgart/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/regiorad_stuttgart/gbfs"
   },
   {
     "name": "stadtmobil_stuttgart",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_stuttgart/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_stuttgart/gbfs"
   },
   {
     "name": "stella",

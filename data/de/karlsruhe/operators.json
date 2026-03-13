@@ -13,6 +13,6 @@
   },
   {
     "name": "stadtmobil_karlsruhe",
-    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v2/stadtmobil_karlsruhe/gbfs"
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_karlsruhe/gbfs"
   }
 ]
