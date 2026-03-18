@@ -8,7 +8,7 @@
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/cleveland/gbfs.json"
   },
   {
-    "name": "Veo Mobility",
+    "name": "veo-cle",
     "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/cle/gbfs"
   }
 ]

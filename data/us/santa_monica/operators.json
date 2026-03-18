@@ -4,7 +4,7 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/santa_monica/gbfs.json"
   },
   {
-    "name": "Veo Mobility",
+    "name": "veo-xla",
     "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/xla/gbfs"
   }
 ]

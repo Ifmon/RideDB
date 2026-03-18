@@ -4,7 +4,7 @@
     "gbfs_url": "https://gbfs.bcycle.com/bcycle_sanantonio/gbfs.json"
   },
   {
-    "name": "Veo Mobility",
+    "name": "veo-stx",
     "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/stx/gbfs"
   }
 ]

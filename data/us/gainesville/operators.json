@@ -8,7 +8,7 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/gainesville/gbfs.json"
   },
   {
-    "name": "Veo Mobility",
+    "name": "veo-gvl",
     "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/gvl/gbfs"
   }
 ]

@@ -24,7 +24,7 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/spin/washington_dc/gbfs.json"
   },
   {
-    "name": "Veo Mobility",
+    "name": "veo-xdc",
     "gbfs_url": "https://cluster-prod.veoride.com/api/shares/name/xdc/gbfs"
   }
 ]
