@@ -1,6 +1,6 @@
 [
   {
     "name": "sibiu_bikecity",
-    "gbfs_url": "https://sibiu.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://sibiu.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

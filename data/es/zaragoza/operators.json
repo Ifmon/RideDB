@@ -5,6 +5,6 @@
   },
   {
     "name": "zaragoza",
-    "gbfs_url": "https://zaragoza.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://zaragoza.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

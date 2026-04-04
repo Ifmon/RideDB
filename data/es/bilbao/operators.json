@@ -1,7 +1,7 @@
 [
   {
     "name": "bilbao",
-    "gbfs_url": "https://bilbao.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://bilbao.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   },
   {
     "name": "nextbike_bw",

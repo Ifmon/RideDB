@@ -1,6 +1,6 @@
 [
   {
     "name": "mibici_guadalajara",
-    "gbfs_url": "https://guadalajara-mx.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://guadalajara.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

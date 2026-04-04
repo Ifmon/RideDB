@@ -1,6 +1,6 @@
 [
   {
     "name": "we_cycle",
-    "gbfs_url": "https://aspen.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://aspen.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

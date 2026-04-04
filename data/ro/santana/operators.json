@@ -1,6 +1,6 @@
 [
   {
     "name": "santana_bikecity",
-    "gbfs_url": "https://santana.publicbikesystem.net/customer/gbfs/v3.0/"
+    "gbfs_url": "https://santana.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

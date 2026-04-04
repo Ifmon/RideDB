@@ -1,6 +1,6 @@
 [
   {
     "name": "bike_brasilia",
-    "gbfs_url": "https://brasilia.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://brasilia.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

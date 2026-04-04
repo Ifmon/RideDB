@@ -1,6 +1,6 @@
 [
   {
     "name": "go_biki",
-    "gbfs_url": "https://hon.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://honolulu.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

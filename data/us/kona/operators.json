@@ -1,6 +1,6 @@
 [
   {
     "name": "bike_share_hawaii",
-    "gbfs_url": "https://kona.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+    "gbfs_url": "https://kona.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

@@ -2,5 +2,9 @@
   {
     "name": "bird-miami",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/miami/gbfs.json"
+  },
+  {
+    "name": "miamiunderline",
+    "gbfs_url": "https://miamiunderline.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }
 ]

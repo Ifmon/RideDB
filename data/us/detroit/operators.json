@@ -9,7 +9,7 @@
   },
   {
     "name": "mogo",
-    "gbfs_url": "https://detroit.publicbikesystem.net/customer/gbfs/v3.0/"
+    "gbfs_url": "https://detroit.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   },
   {
     "name": "spin detroit",
