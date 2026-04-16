@@ -6,5 +6,9 @@
   {
     "name": "esel_ac",
     "gbfs_url": "https://di.esel.ac/gbfs/gbfs.json"
+  },
+  {
+    "name": "nextbike_an",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_an/gbfs.json"
   }
 ]
