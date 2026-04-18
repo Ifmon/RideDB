@@ -5,7 +5,7 @@
   },
   {
     "name": "donkey_rt",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_rt/gbfs.json"
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_rt/gbfs.json"
   },
   {
     "name": "cooltra_rotterdam",

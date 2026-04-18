@@ -1,7 +1,7 @@
 [
   {
     "name": "ljubljana",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/ljubljana/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/ljubljana/gbfs/v3/gbfs.json"
   },
   {
     "name": "nextbike_cc",

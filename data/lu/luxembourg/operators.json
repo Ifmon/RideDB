@@ -1,6 +1,6 @@
 [
   {
     "name": "luxembourg",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/luxembourg/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/luxembourg/gbfs/v3/gbfs.json"
   }
 ]

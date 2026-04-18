@@ -1,6 +1,6 @@
 [
   {
     "name": "vilnius",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/vilnius/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/vilnius/gbfs/v3/gbfs.json"
   }
 ]

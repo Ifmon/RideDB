@@ -5,6 +5,6 @@
   },
   {
     "name": "besancon",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/besancon/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/besancon/gbfs/v3/gbfs.json"
   }
 ]

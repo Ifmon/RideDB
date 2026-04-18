@@ -1,6 +1,6 @@
 [
   {
     "name": "namur",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/namur/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/namur/gbfs/v3/gbfs.json"
   }
 ]

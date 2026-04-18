@@ -1,10 +1,10 @@
 [
   {
     "name": "donkey_dordrecht",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_dordrecht/gbfs.json"
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_dordrecht/gbfs.json"
   },
   {
     "name": "donkey_qbuzz",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_qbuzz/gbfs.json"
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_qbuzz/gbfs.json"
   }
 ]

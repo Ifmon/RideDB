@@ -13,6 +13,6 @@
   },
   {
     "name": "lyon",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/lyon/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/lyon/gbfs/v3/gbfs.json"
   }
 ]

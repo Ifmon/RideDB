@@ -1,6 +1,6 @@
 [
   {
     "name": "toyama",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/toyama/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/toyama/gbfs/v3/gbfs.json"
   }
 ]

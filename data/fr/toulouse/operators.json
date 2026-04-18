@@ -5,6 +5,6 @@
   },
   {
     "name": "toulouse",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/toulouse/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/toulouse/gbfs/v3/gbfs.json"
   }
 ]

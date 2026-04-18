@@ -1,6 +1,6 @@
 [
   {
     "name": "maribor",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/maribor/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/maribor/gbfs/v3/gbfs.json"
   }
 ]

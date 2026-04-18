@@ -1,6 +1,6 @@
 [
   {
     "name": "seville",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/seville/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/seville/gbfs/v3/gbfs.json"
   }
 ]

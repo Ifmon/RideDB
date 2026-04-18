@@ -9,7 +9,7 @@
   },
   {
     "name": "donkey_antwerp",
-    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/2/donkey_antwerp/gbfs.json"
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_antwerp/gbfs.json"
   },
   {
     "name": "cooltra_antwerp",

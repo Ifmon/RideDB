@@ -5,6 +5,6 @@
   },
   {
     "name": "nantes",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/v3/gbfs.json"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
     "name": "valence",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/valence/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/valence/gbfs/v3/gbfs.json"
   }
 ]

@@ -21,6 +21,6 @@
   },
   {
     "name": "bruxelles",
-    "gbfs_url": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/gbfs.json"
+    "gbfs_url": "https://api.cyclocity.fr/contracts/bruxelles/gbfs/v3/gbfs.json"
   }
 ]
