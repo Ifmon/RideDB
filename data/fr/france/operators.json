@@ -2,5 +2,9 @@
   {
     "name": "citiz_developpement",
     "gbfs_url": "https://backend.citiz.fr/public/provider/12/gbfs/3.0/gbfs.json"
+  },
+  {
+    "name": "clem-france",
+    "gbfs_url": "https://gbfs.clem.mobi/gbfs.json"
   }
 ]

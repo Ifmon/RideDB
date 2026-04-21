@@ -8,10 +8,6 @@
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/paris/gbfs.json"
   },
   {
-    "name": "pony_paris",
-    "gbfs_url": "https://gbfs.getapony.com/v1/paris/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
-  },
-  {
     "name": "Paris",
     "gbfs_url": "https://velib-metropole-opendata.smovengo.cloud/opendata/Velib_Metropole/gbfs.json"
   },

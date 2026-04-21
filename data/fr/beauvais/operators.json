@@ -1,6 +1,6 @@
 [
   {
     "name": "pony_Beauvais",
-    "gbfs_url": "https://gbfs.getapony.com/v1/beauvais/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+    "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-beauvais-gbfs/gbfs.json"
   }
 ]

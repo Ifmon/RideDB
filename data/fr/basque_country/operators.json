@@ -1,6 +1,6 @@
 [
   {
     "name": "pony_Basque_Country",
-    "gbfs_url": "https://gbfs.getapony.com/v1/basque_country/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+    "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-pays-basque-gbfs/gbfs.json"
   }
 ]

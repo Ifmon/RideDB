@@ -5,6 +5,6 @@
   },
   {
     "name": "pony_Nice",
-    "gbfs_url": "https://gbfs.getapony.com/v1/nice/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+    "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-nice-gbfs/gbfs.json"
   }
 ]
