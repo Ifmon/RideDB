@@ -2,5 +2,9 @@
   {
     "name": "donkey_kouvola",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_kouvola/gbfs.json"
+  },
+  {
+    "name": "dott-kouvola",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/kouvola/gbfs.json"
   }
 ]

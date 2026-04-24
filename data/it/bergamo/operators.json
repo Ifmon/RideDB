@@ -1,5 +1,9 @@
 [
   {
+    "name": "dott-bergamo",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/bergamo/gbfs.json"
+  },
+  {
     "name": "nextbike_ib",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ib/gbfs.json"
   }
