@@ -6,5 +6,9 @@
   {
     "name": "bird-madrid",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/madrid/gbfs.json"
+  },
+  {
+    "name": "getaround_madrid",
+    "gbfs_url": "https://getaround.com/gbfs/v3/madrid/gbfs"
   }
 ]

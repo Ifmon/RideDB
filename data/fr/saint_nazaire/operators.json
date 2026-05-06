@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_saint-nazaire",
+    "gbfs_url": "https://getaround.com/gbfs/v3/saint-nazaire/gbfs"
+  },
+  {
     "name": "velyceo",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/velyceo/gbfs.json"
   }

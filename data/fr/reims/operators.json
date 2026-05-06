@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_reims",
+    "gbfs_url": "https://getaround.com/gbfs/v3/reims/gbfs"
+  },
+  {
     "name": "zebullo",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/zebullo/gbfs.json"
   }

@@ -2,5 +2,9 @@
   {
     "name": "CVelo_FR_Clermont-Ferrand",
     "gbfs_url": "https://clermontferrand.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
+  },
+  {
+    "name": "getaround_clermont-ferrand",
+    "gbfs_url": "https://getaround.com/gbfs/v3/clermont-ferrand/gbfs"
   }
 ]

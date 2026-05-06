@@ -4,6 +4,10 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltkristiansand/gbfs"
   },
   {
+    "name": "getaround_kristiansand",
+    "gbfs_url": "https://getaround.com/gbfs/v3/kristiansand/gbfs"
+  },
+  {
     "name": "voikristiansand",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voikristiansand/gbfs"
   }

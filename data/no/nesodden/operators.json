@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundnesodden",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundnesodden/gbfs"
+    "name": "getaround_nesodden",
+    "gbfs_url": "https://getaround.com/gbfs/v3/nesodden/gbfs"
   }
 ]

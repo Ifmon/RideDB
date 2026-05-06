@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_nice",
+    "gbfs_url": "https://getaround.com/gbfs/v3/nice/gbfs"
+  },
+  {
     "name": "lime_nice",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/nice/gbfs.json"
   },

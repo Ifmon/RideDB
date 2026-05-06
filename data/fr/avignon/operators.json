@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_avignon",
+    "gbfs_url": "https://getaround.com/gbfs/v3/avignon/gbfs"
+  },
+  {
     "name": "velopop",
     "gbfs_url": "https://gbfs.partners.fifteen.eu/gbfs/avignon/gbfs.json"
   }

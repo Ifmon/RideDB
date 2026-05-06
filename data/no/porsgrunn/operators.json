@@ -1,7 +1,7 @@
 [
   {
-    "name": "getaroundporsgrunn",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundporsgrunn/gbfs"
+    "name": "getaround_porsgrunn",
+    "gbfs_url": "https://getaround.com/gbfs/v3/porsgrunn/gbfs"
   },
   {
     "name": "rydeporsgrunn",

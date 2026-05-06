@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_limoges",
+    "gbfs_url": "https://getaround.com/gbfs/v3/limoges/gbfs"
+  },
+  {
     "name": "pony_Limoges",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-limoges-gbfs/gbfs.json"
   }

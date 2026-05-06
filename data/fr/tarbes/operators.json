@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_tarbes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/tarbes/gbfs"
+  },
+  {
     "name": "tlpmobilites",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/tlpmobilites/gbfs.json"
   }

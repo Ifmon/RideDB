@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_saint-quentin-en-yvelines",
+    "gbfs_url": "https://getaround.com/gbfs/v3/saint-quentin-en-yvelines/gbfs"
+  },
+  {
     "name": "voi_SQY",
     "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/355/gbfs.json"
   }

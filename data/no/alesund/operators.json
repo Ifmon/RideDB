@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundalesund",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundalesund/gbfs"
+    "name": "getaround_alesund",
+    "gbfs_url": "https://getaround.com/gbfs/v3/alesund/gbfs"
   }
 ]

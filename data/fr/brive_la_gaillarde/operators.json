@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_brive-la-gaillarde",
+    "gbfs_url": "https://getaround.com/gbfs/v3/brive-la-gaillarde/gbfs"
+  },
+  {
     "name": "velibeo",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/velibeo/gbfs.json"
   }

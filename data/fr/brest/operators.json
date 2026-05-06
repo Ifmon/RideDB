@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_brest",
+    "gbfs_url": "https://getaround.com/gbfs/v3/brest/gbfs"
+  },
+  {
     "name": "velozef",
     "gbfs_url": "https://gbfs.partners.fifteen.eu/gbfs/2.2/brest/en/gbfs.json"
   }

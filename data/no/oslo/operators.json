@@ -4,8 +4,8 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltoslo/gbfs"
   },
   {
-    "name": "getaroundoslo",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundoslo/gbfs"
+    "name": "getaround_oslo",
+    "gbfs_url": "https://getaround.com/gbfs/v3/oslo/gbfs"
   },
   {
     "name": "oslobysykkel",

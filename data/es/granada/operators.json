@@ -1,6 +1,6 @@
 [
   {
-    "name": "Link_Granada",
-    "gbfs_url": "https://mds.linkyour.city/gbfs/es_granada/gbfs.json"
+    "name": "getaround_granada",
+    "gbfs_url": "https://getaround.com/gbfs/v3/granada/gbfs"
   }
 ]

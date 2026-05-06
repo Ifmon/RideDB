@@ -8,6 +8,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/19/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_rennes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/rennes/gbfs"
+  },
+  {
     "name": "le_velo_star",
     "gbfs_url": "https://eu.ftp.opendatasoft.com/star/gbfs/gbfs.json"
   }

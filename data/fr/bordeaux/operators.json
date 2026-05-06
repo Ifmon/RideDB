@@ -12,6 +12,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/bordeaux/gbfs.json"
   },
   {
+    "name": "getaround_bordeaux",
+    "gbfs_url": "https://getaround.com/gbfs/v3/bordeaux/gbfs"
+  },
+  {
     "name": "velo-tbm-bordeaux",
     "gbfs_url": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt"
   },

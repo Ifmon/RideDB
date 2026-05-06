@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_niort",
+    "gbfs_url": "https://getaround.com/gbfs/v3/niort/gbfs"
+  },
+  {
     "name": "tanlib",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/tanlib/gbfs.json"
   }

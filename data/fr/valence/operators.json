@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_valence",
+    "gbfs_url": "https://getaround.com/gbfs/v3/valence/gbfs"
+  },
+  {
     "name": "libelo",
     "gbfs_url": "https://valence.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }

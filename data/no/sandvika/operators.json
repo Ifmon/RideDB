@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundsandvika",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundsandvika/gbfs"
+    "name": "getaround_sandvika",
+    "gbfs_url": "https://getaround.com/gbfs/v3/sandvika/gbfs"
   }
 ]

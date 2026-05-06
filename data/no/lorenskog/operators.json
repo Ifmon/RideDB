@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundlorenskog",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundlorenskog/gbfs"
+    "name": "getaround_lorenskog",
+    "gbfs_url": "https://getaround.com/gbfs/v3/lorenskog/gbfs"
   }
 ]

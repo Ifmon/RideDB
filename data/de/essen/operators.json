@@ -2,5 +2,9 @@
   {
     "name": "dott-essen",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/essen/gbfs.json"
+  },
+  {
+    "name": "getaround_essen",
+    "gbfs_url": "https://getaround.com/gbfs/v3/essen/gbfs"
   }
 ]

@@ -4,6 +4,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/5/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_grenoble",
+    "gbfs_url": "https://getaround.com/gbfs/v3/grenoble/gbfs"
+  },
+  {
     "name": "voi_Grenoble",
     "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/358/gbfs.json"
   }

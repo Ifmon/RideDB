@@ -2,5 +2,9 @@
   {
     "name": "bird-laval",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/laval/gbfs.json"
+  },
+  {
+    "name": "getaround_laval",
+    "gbfs_url": "https://getaround.com/gbfs/v3/laval/gbfs"
   }
 ]

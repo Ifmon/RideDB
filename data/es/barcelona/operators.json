@@ -18,5 +18,9 @@
   {
     "name": "donkey_barcelona",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_barcelona/gbfs.json"
+  },
+  {
+    "name": "getaround_barcelona",
+    "gbfs_url": "https://getaround.com/gbfs/v3/barcelona/gbfs"
   }
 ]

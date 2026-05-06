@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_beauvais",
+    "gbfs_url": "https://getaround.com/gbfs/v3/beauvais/gbfs"
+  },
+  {
     "name": "pony_Beauvais",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-beauvais-gbfs/gbfs.json"
   }

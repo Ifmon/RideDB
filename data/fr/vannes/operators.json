@@ -1,6 +1,6 @@
 [
   {
-    "name": "Veloceo_FR_Vannes",
-    "gbfs_url": "https://vannes-gbfs.klervi.net/gbfs/gbfs.json"
+    "name": "getaround_vannes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/vannes/gbfs"
   }
 ]

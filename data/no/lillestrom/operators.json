@@ -8,8 +8,8 @@
     "gbfs_url": "https://api.cyclocity.fr/contracts/lillestrom/gbfs/v3/gbfs.json"
   },
   {
-    "name": "getaroundlillestrom",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundlillestrom/gbfs"
+    "name": "getaround_lillestrom",
+    "gbfs_url": "https://getaround.com/gbfs/v3/lillestrom/gbfs"
   },
   {
     "name": "voilillestrom",

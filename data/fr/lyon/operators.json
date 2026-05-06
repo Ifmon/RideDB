@@ -8,6 +8,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/lyon/gbfs.json"
   },
   {
+    "name": "getaround_lyon",
+    "gbfs_url": "https://getaround.com/gbfs/v3/lyon/gbfs"
+  },
+  {
     "name": "84b174c4-eb74-5d07-bdeb-27f4215d2aa9",
     "gbfs_url": "https://download.data.grandlyon.com/files/rdata/lag_leoandgo.disponibilite/gbfs.json"
   },

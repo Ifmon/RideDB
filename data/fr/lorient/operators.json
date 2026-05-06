@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_lorient",
+    "gbfs_url": "https://getaround.com/gbfs/v3/lorient/gbfs"
+  },
+  {
     "name": "pony_Lorient",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-lorient-gbfs/gbfs.json"
   }

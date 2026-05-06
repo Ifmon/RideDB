@@ -4,6 +4,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/9/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_poitiers",
+    "gbfs_url": "https://getaround.com/gbfs/v3/poitiers/gbfs"
+  },
+  {
     "name": "pony_poitiers",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-poitiers-gbfs/gbfs.json"
   }

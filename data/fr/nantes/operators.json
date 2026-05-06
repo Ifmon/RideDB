@@ -4,6 +4,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/15/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_nantes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/nantes/gbfs"
+  },
+  {
     "name": "nantes",
     "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/v3/gbfs.json"
   }

@@ -4,8 +4,8 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/boltfredrikstad/gbfs"
   },
   {
-    "name": "getaroundfredrikstad",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundfredrikstad/gbfs"
+    "name": "getaround_fredrikstad",
+    "gbfs_url": "https://getaround.com/gbfs/v3/fredrikstad/gbfs"
   },
   {
     "name": "rydefredrikstad",

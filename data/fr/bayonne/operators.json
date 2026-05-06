@@ -2,5 +2,9 @@
   {
     "name": "aupa",
     "gbfs_url": "https://backend.citiz.fr/public/provider/20/gbfs/3.0/gbfs.json"
+  },
+  {
+    "name": "getaround_bayonne",
+    "gbfs_url": "https://getaround.com/gbfs/v3/bayonne/gbfs"
   }
 ]

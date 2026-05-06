@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_valencia",
+    "gbfs_url": "https://getaround.com/gbfs/v3/valencia/gbfs"
+  },
+  {
     "name": "valence",
     "gbfs_url": "https://api.cyclocity.fr/contracts/valence/gbfs/v3/gbfs.json"
   }

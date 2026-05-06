@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_perpignan",
+    "gbfs_url": "https://getaround.com/gbfs/v3/perpignan/gbfs"
+  },
+  {
     "name": "pony_Perpignan",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-perpignan-gbfs/gbfs.json"
   }

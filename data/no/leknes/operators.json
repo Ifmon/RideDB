@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundleknes",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundleknes/gbfs"
+    "name": "getaround_leknes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/leknes/gbfs"
   }
 ]

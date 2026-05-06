@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundevenes",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundevenes/gbfs"
+    "name": "getaround_evenes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/evenes/gbfs"
   }
 ]

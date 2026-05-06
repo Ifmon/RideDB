@@ -4,6 +4,10 @@
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/hamburg/gbfs.json"
   },
   {
+    "name": "getaround_hamburg",
+    "gbfs_url": "https://getaround.com/gbfs/v3/hamburg/gbfs"
+  },
+  {
     "name": "lime_hamburg",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/hamburg/gbfs.json"
   },

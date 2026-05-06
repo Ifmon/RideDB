@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_caen",
+    "gbfs_url": "https://getaround.com/gbfs/v3/caen/gbfs"
+  },
+  {
     "name": "twisto_velolib_caen",
     "gbfs_url": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/gbfs.json"
   }

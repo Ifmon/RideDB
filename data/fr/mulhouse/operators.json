@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_mulhouse",
+    "gbfs_url": "https://getaround.com/gbfs/v3/mulhouse/gbfs"
+  },
+  {
     "name": "nextbike_af",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_af/gbfs.json"
   }

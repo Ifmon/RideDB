@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundtonsberg",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundtonsberg/gbfs"
+    "name": "getaround_tonsberg",
+    "gbfs_url": "https://getaround.com/gbfs/v3/tonsberg/gbfs"
   }
 ]

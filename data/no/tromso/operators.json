@@ -1,6 +1,6 @@
 [
   {
-    "name": "getaroundtromso",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundtromso/gbfs"
+    "name": "getaround_tromso",
+    "gbfs_url": "https://getaround.com/gbfs/v3/tromso/gbfs"
   }
 ]

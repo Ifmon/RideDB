@@ -4,8 +4,8 @@
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/fartebysykkel/gbfs"
   },
   {
-    "name": "getaroundskien",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundskien/gbfs"
+    "name": "getaround_skien",
+    "gbfs_url": "https://getaround.com/gbfs/v3/skien/gbfs"
   },
   {
     "name": "rydeskien",

@@ -4,6 +4,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/8/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_toulouse",
+    "gbfs_url": "https://getaround.com/gbfs/v3/toulouse/gbfs"
+  },
+  {
     "name": "toulouse",
     "gbfs_url": "https://api.cyclocity.fr/contracts/toulouse/gbfs/v3/gbfs.json"
   }

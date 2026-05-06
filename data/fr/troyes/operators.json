@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_troyes",
+    "gbfs_url": "https://getaround.com/gbfs/v3/troyes/gbfs"
+  },
+  {
     "name": "lemarcel",
     "gbfs_url": "https://api.gbfs.v3.0.ecovelo.mobi/lemarcel/gbfs.json"
   }

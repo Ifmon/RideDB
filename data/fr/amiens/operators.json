@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_amiens",
+    "gbfs_url": "https://getaround.com/gbfs/v3/amiens/gbfs"
+  },
+  {
     "name": "amiens",
     "gbfs_url": "https://api.cyclocity.fr/contracts/amiens/gbfs/v3/gbfs.json"
   }

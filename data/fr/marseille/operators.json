@@ -8,6 +8,10 @@
     "gbfs_url": "https://backend.citiz.fr/public/provider/6/gbfs/3.0/gbfs.json"
   },
   {
+    "name": "getaround_marseille",
+    "gbfs_url": "https://getaround.com/gbfs/v3/marseille/gbfs"
+  },
+  {
     "name": "levelo_inurba_marseille",
     "gbfs_url": "https://gbfs.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
   },

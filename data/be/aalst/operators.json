@@ -2,5 +2,9 @@
   {
     "name": "dott-aalst",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/aalst/gbfs.json"
+  },
+  {
+    "name": "getaround_aalst",
+    "gbfs_url": "https://getaround.com/gbfs/v3/aalst/gbfs"
   }
 ]

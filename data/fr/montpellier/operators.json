@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_montpellier",
+    "gbfs_url": "https://getaround.com/gbfs/v3/montpellier/gbfs"
+  },
+  {
     "name": "velomagg_montpellier",
     "gbfs_url": "https://gbfs.theta.fifteen.eu/gbfs/montpellier/gbfs.json"
   }

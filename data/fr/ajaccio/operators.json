@@ -2,5 +2,9 @@
   {
     "name": "bird-ajaccio",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/ajaccio/gbfs.json"
+  },
+  {
+    "name": "getaround_ajaccio",
+    "gbfs_url": "https://getaround.com/gbfs/v3/ajaccio/gbfs"
   }
 ]

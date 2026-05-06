@@ -2,5 +2,9 @@
   {
     "name": "dott-versailles-grand-parc",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/versailles-grand-parc/gbfs.json"
+  },
+  {
+    "name": "getaround_versailles",
+    "gbfs_url": "https://getaround.com/gbfs/v3/versailles/gbfs"
   }
 ]

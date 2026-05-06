@@ -1,5 +1,9 @@
 [
   {
+    "name": "getaround_rouen",
+    "gbfs_url": "https://getaround.com/gbfs/v3/rouen/gbfs"
+  },
+  {
     "name": "inurba-rouen",
     "gbfs_url": "https://gbfs.urbansharing.com/lovelolibreservice.fr/gbfs.json"
   }
